@@ -1,0 +1,1 @@
+Also do not add pixel sizes to thumbnail images This allows the settings in a users preferences to determine the size at which the picture is displayed If you have any questions please dont hesitate to ask

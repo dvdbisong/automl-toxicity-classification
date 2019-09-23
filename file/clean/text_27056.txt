@@ -1,0 +1,5 @@
+Contradictory numbers in Energy Content table 
+
+This isnt my field of expertise but I noticed what seem to be some contradictory numbers or bad conversions in the Energy Content table For example Aviation Gasoline is shown as having a lower number of MJliter and BTUgallon than Regular Gasoline which doesnt sound right But when converted to MJkg the number is higher than gasoline
+
+I have another remark regarding the Energy content section Is the displayed energy content the true energy content or the energy content when used in a conventional internal combustion engine this would change the figurs greatly as eg gasoline is burnt here with 20 efficiency while hydrogen is burnt with 4060 efficiency

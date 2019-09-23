@@ -1,0 +1,12 @@
+citation
+ title The Cathedral and The Bazaar Musings on Linux and Open Source by an Accidental Revolutionary
+ last Raymond
+ first Eric
+ authorlink Eric Raymond
+ year 1999
+ publisher OReilly
+ location
+ isbn 1565927249
+ pages
+ edition 
+ url  httpbooksgooglecombooksid12dbAAAACAAJ

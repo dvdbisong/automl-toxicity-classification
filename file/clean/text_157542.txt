@@ -1,0 +1,1 @@
+This page seems a little misleading The reason that the midpoint rule gives an accurate answer is that the acceleration is constant The midpoint is actually the analytical solution when the acceleration is constant However this is not generally applicable to systems where the acceleration is not constant

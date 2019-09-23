@@ -1,0 +1,1 @@
+Theres one of these pseudoproofs for 1  0 too it basically goes like this 0  0  0  0    1  1  1  1   using associativity 1  1  1  1    1  1  1  1  1    1  0  0    1 Whats invalid here is that the law of associativity does not hold for infinite sums that arent absolutely convergent   0012 25 Jun 2003 UTC

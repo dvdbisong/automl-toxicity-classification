@@ -1,0 +1,1 @@
+Hi Andyrom75 thats a lot of issues Thank you for being so observant I wont have time in the immediate future  but of course I want to find out what causes these anomalies For now I opened a phabricator task at  Feel free to remind me in a few weeks time if I havent taken this up yet let me add that I work roughly 13 FTE on average Cheers

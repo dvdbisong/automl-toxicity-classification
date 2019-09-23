@@ -1,0 +1,5 @@
+Previous fight 
+
+SHould we list the previous UFC fight the fighter was in Example
+
+NameNicknameUFC RecordPrevious UFC Fight Frank Mir12  5 W UFC 119 vs Mirko Cro Cop Cheick KongoKongo8  4  1 D UFC 120 vs Travis Browne Mirko Cro CopCro Cop4  4 L UFC 119 vs Frank Mir Cain Velasquez C7  0 W UFC 121 vs Brock Lesnar

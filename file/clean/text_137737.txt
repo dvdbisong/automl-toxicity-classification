@@ -1,0 +1,2 @@
+Depolarization
+When looking at the page depolarization it says that depolarization is only when voltage is heading towards zero volts and never when it is not So once it crosses zero volts it is actually repolarizing Im not an expert on this but there is a very long discussion on it in the site I mentioned It definitetly needs to be fixed

@@ -1,0 +1,1 @@
+So because the name is CAN bus we should call it controller area network  Typical wikipedia

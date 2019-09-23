@@ -1,0 +1,14 @@
+Bot automation at WikipediaTodays articles for improvement 
+
+Over the past two weeks there has been extensive discussion on introducing bot automation to assist with maintenance of the Todays Articles for Improvement project A  has now been approved for trial and will carry out the weekly duties The bots first run will occur around  midnight on SundayIf you have been assisting any of the weekly maintenance tasks please refrain from doing so this week The bot needs to be tested and proven it can do the job and it only gets one chance per week The tasks will include
+ Adding the new scheduled article to Wikipedia talkTodays articles for improvement and removing the entry from WikipediaArticles for improvement
+ Set up the schedule pages for the new TAFI except the adding of an image and caption
+ Adding  to the new article for improvement remove  from last weeks article and add  to the talk page
+ Notify relevant WikiProjects that the new TAFI is within their scope
+ Send a mass message to everyone on the notification list of the new TAFI selection
+
+Updating the accomplishments and archiving selections is still done manually along with daily tasks such as adding approved entries to the articles for improvement page These will become automated in the near future
+
+We hope the bot proves to serve well and by carrying out the routine housekeeping tasks we can boost the overall efficiency and effectiveness of the project  thanks you for your service in helping with the weekly tasks in the past and for your cooperation during this trial period 
+
+Posted by    on behalf of WikiProject TAFI   for all project notifications

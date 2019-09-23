@@ -1,0 +1,8 @@
+UTC
+
+Any line segment can be divided continuously ad infinitum
+At all times with each division the length of each part shortens by a half
+while at the same time the number of parts multiplies by two
+So how can an infinite number of parts
+make up a finite whole Because for every division the lengths
+of the parts are reducing as fast as the number of parts are increasing   2128 9 August 2012

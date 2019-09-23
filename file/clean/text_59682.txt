@@ -1,0 +1,8 @@
+That is exactly it there are two numbers to be manually updated in the Progress section
+toolswmflabsorgdplbotdisambig_linksphplimit1000offset0 top 1000 disambiguation pages as of August 31 2015 out of a total of 8067 links approximately 6428 have currently been fixed
+
+Progress bar6428total8067width60
+
+which renders as
+
+top 1000 disambiguation pages as of August 31 2015 out of a total of 8067 links approximately 6428 have currently been fixed

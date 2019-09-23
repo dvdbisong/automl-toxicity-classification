@@ -1,0 +1,3 @@
+VB implementation 
+
+I have trawled through John Taylors VB implementation quite a bit and I think its unnecessarily complicated Im currently adapting it for my own purposes and it quickly gets shorter more efficient and more readable as well

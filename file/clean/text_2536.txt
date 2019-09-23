@@ -1,0 +1,5 @@
+Tmbox
+   type   style
+   image  
+   text   
+Please come to IRC  By the looks of your question I think it would be best to have you log on to IRC IRC stands for Internet Relay Chat which allows for realtime textbased communication with other users This way in addition to the help I can provide I can get others on wikipediaenhelp to help you as well Here is a web based IRC client so you dont have to download anything to talk to us See you there

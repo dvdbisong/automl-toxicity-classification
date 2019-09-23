@@ -1,0 +1,8 @@
+Removed text 
+
+I removed the following text from the article
+
+Seating plans
+The predominant floor plans are comprised of visavis resp face to face seats seating rows resp face to back with split orientation half in each direction for trains operated in both directions and a combination of those principles In regional transport we can find seats aligned with the tracks to give more room to the standing passengers In scenic trains seats are beeing orientied some degrees to the window are used Some design variants have curved banks of seats to form a lounge Flip flop seats that can be changed from face to face to face to back orientation are not used much due to its weights and consequences of the additional mechanism
+
+While this information could still be valuable I dont think its worded very well here  Besides the seating arrangements are different for each car type and this text deals more with coaches than other types  It seems to me that seating arrangements are better described on the car type pages themselves and not here   2048 Jun 16 2005 UTC

@@ -1,0 +1,11 @@
+Material from theraputic vaccines  too technical 
+
+The following was added to the therapeutic vaccines section recently  I am not sure whether it should just be removed or if there is material here that once simplified might be useful to include
+
+HPVassociated neoplasia are being used to test antigen specific immunotherapies Therapies have focused on HPVs susceptibility to immune manipulation Imiquimod a tolllike receptor TLR 7 agonist works as an inducer of natural immune responses and has been approved by the FDA as firstline therapy for external genital warts  
+
+  Focus has been put on testing Tcell responses to HPV E6 or E7 in intraepithelial lesions Therapeutic HPV vaccines work to induce increased Tcell responses in humans In clinical trials these therapies were administered through different delivery systems such as fusion proteins used alone and with adjuvant encapsulated polynucleotides protein with adjuvant recombinant viruses DNA constructs dendritic cells and chimeric VLP constructs While patients part of this clinical testing showed limited benefit from therapeutic induced Tcells responses they were poor targets for antigenspecific therapies The patients had latestage disease giving the tumors more time to develop mutations as well as deletions of genes involved in antigen processing and presentation
+
+The first paragraph has no obvious relation to vaccines since it appears to be talking about other types of therapies  If it relates to vaccines somehow that needs to be clarified  The other paragraph is too technical without enough explanation to make it comprehensible  
+
+Please see WPMEDMOS both for languageaudience and a little bit on what should be in a research section  Research sections are not for detailed explanations of the research but to indicate major directions and progress if there is coverage in significant sources  eg a review of research in an area might be a decent source individual research papers  much more problematic

@@ -1,0 +1,1 @@
+The bot was using a list that was poorlyformatted wildlyoutofdate not matching the linkedfromtemplate list  It was doing so in a way that was not clear even when looking at the edit histories of the various parties involved Please review both how youre vettingrunning that bot as well as how youre responding to issues  No need to be snarky with me really

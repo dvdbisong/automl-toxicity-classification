@@ -1,0 +1,3 @@
+Sorry I dont believe the Manual of Style supports your edits  WikipediaManual of Style dates and numbersDate formatting says
+If the date does not contain a day and a month date preferences will not work and square brackets will not respond to your readers autoformatting preferences So unless there is a special relevance of the date link there is no need to link it
+You modified four dates  Three of them were full dates the kind which I believe the MOS says you should leave wikilinked

@@ -1,0 +1,3 @@
+Wierd
+
+The evenindexed Euler numbers except E0 are all zero  Some other values are E0  1 E2  1 E4  5

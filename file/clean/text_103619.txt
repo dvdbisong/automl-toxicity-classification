@@ -1,0 +1,8 @@
+Nash equilibria
+The game theory section is quite confused which is amusing given how straightforward the analysis claims to be
+
+The article cant decide whether its talking about a singleround Nash equilibrium or the Nash equilibrium of a repeated game  It talks about repetition and a threatened retaliation the Predictor but it describes an equilibrium which doesnt need retaliation or a repeated game at all  The equilibrium choose both boxes predict both boxes is quite stable for the singleround game and is the only Nash equilibrium
+
+Both players choosing one box is also a Nash equilibrium for the repeated game  However when we have a repeated game another Nash equilibrium is possible  If the Predictor adopts a strategy always choose one box unless the Chooser chose two boxes last round then the Chooser can also always choose one box and have no incentive to deviate  Deviating would net an extra 1000 for that round but would cap the maximum payoff at 1000 in the next round where it would have been 1000000  Hence the deviation is discouraged and the equilibrium is stable
+
+The real question is is any of this germane to the articles topic  If this section could be made concise and simple I could see including it  I dont see a way to make it concise and still correct unless you want to dismiss the possibility of playing repeatedly  0241 12 Aug 2004 UTC

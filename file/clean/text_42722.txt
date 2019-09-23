@@ -1,0 +1,11 @@
+Teleprinters  a few questions 
+
+Hi
+
+You wrote
+
+During World War II many amateur radio operators became military communicators and became familiar with Teletype systems especially Radio Teletype After the war ATT persuaded the military to disable each of the massive number of Model 15s which came onto the surplus market by removing several key components from each unit Radio hams were permitted to buy replacements for these parts or complete machines from ATT or Bell only after presenting proof of their licenses and signing a contract which stated that the machines would never be used in commercial service and would not be sold to anyone who had not also signed the contract This was to prevent the creation of a communications network to rival that of the Bell TWX system
+
+I have a few questions about your update to the teleprinter article as I have not been able to find references to a couple of the points that you list  First are you sure that model 15 machines were released from the military  All references that Ive seen note that model 26 machines that look similar were released after World War II  Second can you reference a source for your information related to parts being removed from machines In my experience machines were partially smashed not partially disassembled to prevent future commercial use Finallywould you agree that your reference to the ATT TWX system is too limiting as it mentions a single commercial use  Rather than pointing out one commercial use for surplus teleprinter equipment it is probably better to simply state something similar to teleprinters were available to amateur radio operators from a number of commercial sources on condition that they were used for purely amateur radio purposes and would not be resold for commercial use
+
+Please comment  Thanks

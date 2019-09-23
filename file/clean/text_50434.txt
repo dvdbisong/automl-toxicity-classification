@@ -1,0 +1,1 @@
+However it wont matter for the ratio since the normalizing constant drops out

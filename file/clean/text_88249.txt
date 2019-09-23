@@ -1,0 +1,1 @@
+It had already been done before and ended up deleted  No reason to retread the same stale debates  Plus the way this one was implemented with a huge switch statement was absolutely hideous and makes it impossible to replace with substitution

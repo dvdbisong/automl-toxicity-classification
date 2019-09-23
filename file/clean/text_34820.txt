@@ -1,0 +1,1 @@
+On a similar note does anyone know what is the exact difference if any between a crystal oscillator and a crystal resonator Are they synonyms or does one imply additional circuitry or some other difference

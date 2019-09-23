@@ -1,0 +1,1 @@
+The current Signpost suggests we will be seeing Lua a lot sooner than expected perhaps this month Lua is a programming language that will be callable by a template and which drastically speeds up stuff like the refs being discussed here although of course it will take ages to code and test

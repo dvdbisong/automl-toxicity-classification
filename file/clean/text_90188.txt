@@ -1,0 +1,5 @@
+Adenosine_triphosphatediff157871236oldid157871181 diff shows the bot reverting one of two vandalism edits from the same IP This cause the vandalism to remain on the page for several days since the last edit on my watchlist looked trustworthy Would it be possible for the bot to be set to revert all of an IPs edits to a page if it recognizes one of a set of contiguous edits as vandalism  
+
+ More Attention 
+
+Please more attention if you work with youre Bot httpenwikipediaorgwindexphptitle

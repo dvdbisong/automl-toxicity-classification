@@ -1,0 +1,28 @@
+RfC Policy Using bad practices from one article to justify another and possible sock puppetry and Politics Acceptability of aggregated data in Election Results section 
+
+Policy
+While not getting into the issue of reverting edits without first reaching out to the original editor to understand their motivation in this case the deletion of a table  justifies the reversion of my deletion by pointing to other articles with the same flawed tablewhich he created
+
+Examples
+
+httpsenwikipediaorgwindexphptitlePapineau_28electoral_district29diffprevoldid654041277  the above article
+httpsenwikipediaorgwindexphptitleOttawa_Southdiffprevoldid593333525  Ottawa South
+httpsenwikipediaorgwindexphptitleEdmonton_Strathconadiff636097681oldid622403799  Edmonton Strathcona
+
+While were on this topic I found an identical table with identical formatting and citation in Toronto Centrebut added by 
+
+httpsenwikipediaorgwindexphptitleToronto_Centreoldid670004225
+
+This strikes me as possible sock puppetry  Im hoping a more sophisticated WP editor can either confirm or deny my hypothesis
+
+Earl Andrew already admitted to working as a polling firm employee in Ottawa It seems likely the same user is responsible not only for adding the content cited but actually generating it in meatspace  This in itself wouldnt make the content nonNPOV though one has to wonder why Earl Andrew guards Canadian electoral district pages so jealously including the Political Geography sections which he invented the topic of our last edit war  Articles about Canadian electoral districts are not Earl Andrews soapbox and should not be treated as such
+
+Further in the edit history of every single article mentioned above only a handful but statistically that makes the following more damning Earl Andrew and Fungus Guy are responsible for the lions share of edits While I understand that topics as specialized as Canadian politics may have only a handful of active editors this appears to be a suspicious pattern and should be treated with all due seriousness
+
+Politics
+s Redistributed results tables and the identical table added by  are composed of data aggregated from Elections Canada results  I take no issue with the data but being aggregated they are no longer results  As such they should at least be moved into a more relevant section with an explanation if not removed altogether  Putting the table in the Election results section implies they are Elections Canada tallies quite possibly having the effect of misinforming voters  And were right in the middle of an election campaign
+
+Unsorted
+I could have done a lot more editing in the past 4 years but instead shied away from larger and more timeconsuming edits and rewrites because I felt the end result might be another 100000 Edit Man coming out of the woodwork to stifle me  When more voluminous editors are allowed to browbeat others into submission because they generate a lot of content or have a page full of barnstars it necessarily degrades the quality of WP by reducing the number of editors  Its hard enough to fight the paid corporate trolls on here dammit
+
+Please advise

@@ -1,0 +1,1 @@
+Actually UE3 and Relent use DirectX for Windows and Xbox 360 platforms and OpenGL for the rest Also Id Tech 5 probably uses DirectX for Xbox 360

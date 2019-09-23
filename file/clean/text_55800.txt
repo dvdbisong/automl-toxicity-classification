@@ -1,0 +1,4 @@
+Removel of all links to masm32com 
+Hi Elen
+
+As it appears that you are wired into the movers and shakers of Wikipedia as the webmaster of masm32com I require all links to that site to be removed from Wikipedia as I have completely removed my support for Wikipedia in technical matter as a consequence of the discussion and deletion of the JWASM article Rather than having to set up a referral block at the server to redirect any traffic to another page that will be even less flattering to the current policies of Wikipedia it would serve both interests if these links were unconditionally removed You may be able to garner the support of the nominator of the deletion of the JWASM page for such an action as the links are currently on the MASM page and it would appear from his more recent modifications of that article that he is going to alter its content as well if not able to simply delete its content

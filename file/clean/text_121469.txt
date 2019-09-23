@@ -1,0 +1,1 @@
+I independendly came to the same conclusion They use the strings which where about defined to be the objects ie the domains of the function as arguments Ie once should not use the notation with arrows to denote the collection of numbers which are the elements of the objects 129247247240

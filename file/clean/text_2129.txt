@@ -1,0 +1,5 @@
+Unapproved bot 
+
+You appear to be using your content as a bot in violation of WPBOT Please stop using your main account as a bot until it is approved
+
+If your bot is approved please make sure it is flagged as a bot and listed on WikipediaBotsStatus

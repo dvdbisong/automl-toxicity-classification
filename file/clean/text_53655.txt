@@ -1,0 +1,3 @@
+I havent checked your replacement in detail but a working example can be found at Discrete_Hilbert_transforms if thats what you are looking for
+There are two key concepts in the article  Fully half of the main section and all of the math is devoted to the concept depicted in the figure which is that of doing piecewise convolution and creating a seamless result  One has to understand that before the next step makes sense and it is easier to understand without the unnecessary complexity of circular convolution  Divide and conquer  Its about teaching and understanding not efficiency
+The details of circular convolution arent included here because they are explained in other articles

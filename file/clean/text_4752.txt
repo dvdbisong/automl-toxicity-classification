@@ -1,0 +1,5 @@
+SudoMonas
+
+Note please sign your posts with 
+
+Certainly upsampling by 16 will increase your bandwidth by 16 but your original signal wont fill the extra bandwidth  0532 9 Mar 2005 UTC

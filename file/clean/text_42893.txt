@@ -1,0 +1,11 @@
+You cant have a citation that something does not exist unless that citation contains proof that the construction is impossible  That the citation author is unaware of the existence of something is not proof that it does not exist  I am unaware of the existence of cylindrical celled zinccarbon batteries but I would never make the claim that they dont exist
+
+In this case the author of your reference is wrong  The centre battery in the illustration to the right is of a flat celled alkaline battery  Zinccarbon and indeed zincchloride batteries are made using layer cells wrapped in a wax type coating or even these days heat shrink plastic for that is all that is required  Alkaline cells generate gas during discharge which is absorbed by the chemistry though there is a delay  As a result some pressure does build up which requires a more substantial container  In virtually all alkaline constructions that container is made from steel  Even a quick look at the centre battery shows rectangular cells made with steel containers  No manufacturer of zinccarbon batteries is going to go to that unnecessary expense 
+
+I have therefore reverted your edit  If you wish to continue to insist that there are no rectangular celled alkaline batteries then please provide a citation that the construction is impossible 2121831405  
+
+Leclanché cells
+
+To describe dry celled zinccarbon as Leclanché is completely incorrect  Georges Leclanché did not invent build or even conceive of a dry version of his famous cell  Indeed the chemistry isnt even the same  The electrolyte in the Leclanché cell is ammonium chloride  The paste electrolyte in the dry zinccarbon battery is a 5050 mix of ammonium chloride and zinc chloride  The difference gives the dry battery an emf of a little over 15 volts versus the Leclanché 14 volts  Later so called high power versions of the cell dispensed with the ammonium chloride completely and just used zinc chloride
+
+In any case the most common name for this type of cell is the zinccarbon and that should therefore be what it is refered to in the article  Few people if anyone at all call it anything other than a zinccarbon  I also cannot find any manufacturer who describes it as Leclanché  I have therefore reverted this as well 2121831405

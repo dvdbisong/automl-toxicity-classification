@@ -1,0 +1,3 @@
+cellspacing0 stylewidth 238px background eee
+ stylewidth 48px height 45px textalign center 
+ stylefontsize 8pt padding 4pt lineheight 125em color black textalign center  Warning to Vandals This user is armed with

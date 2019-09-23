@@ -1,0 +1,15 @@
+Lead section 
+
+I believe that the following sentence
+
+When current is applied to the capacitor electric charges of equal magnitude but opposite polarity build up on each plate
+
+is more accurate than this version
+
+When charge is made to flow into the capacitor electric charges of equal magnitude but opposite polarity build up on each plate
+
+You said in your edit summary that charge flows current is a flow implying that current doesnt flow verb  You are correct so its a good thing the original version didnt claim that current flows
+
+Also the phrase charge is made to flow into the capacitor isnt really accurate as overall charge neither leaves nor enters the capacitor
+
+Regards

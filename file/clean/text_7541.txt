@@ -1,0 +1,1 @@
+Well thats a functional bug that should be reported Its a balance between an ugly functional format or an aesthetically pleasant but unfunctional format I would vote for aesthetics every time and report the bug hoping it could be fixed in the near future

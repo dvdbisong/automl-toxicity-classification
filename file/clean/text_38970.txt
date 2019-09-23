@@ -1,0 +1,45 @@
+Been a while 
+
+Happy belated birthday Merry Christmas Happy New Year and Groundhog Day
+
+Take a break from all the WP nannying Hope youre doing great  MIT
+
+Take another look at December 2008s and last months archived portal pages and see if they work correctly on your end Shades of Extreme Home Makeover  etc
+
+This may be the closest I get to remastering old films like they now have to do for BluRay Feels like it fun but tedious
+
+Some of these archived portal pages Ive trundled through going back to Jan of 08 so far succumb to tableformatting bugs on my platform TigerSafari FF3 So I kludged the position of the calendars But these two months work fine No clue as to why they break Is there a documented bug This seems to be some kind of CSS error
+
+The PortalCurrent eventsHow to archive the portal page must not be visited very often of late so Im attempting to make its link more prominent by adding a comment above the fold Dont have a clue how many editors might contribute to the upkeep of this though
+
+Here are handy linx for you to peruse these pages only the last 2 have reconstructed sidebars As Of This Writing hereinafter AOTW
+
+January 2008 works okay on my plat
+
+February 2008 broken so its kludged
+
+March 2008 okay
+
+April 2008 okay
+
+May 2008 works okay International hols are an embarrassment why just May
+
+June 2008 works OK
+
+July 2008 breaks with prescribed table formatting so its kludged
+
+August 2008 OK
+
+September 2008 OK
+
+October 2008 OK
+
+November 2008 also breaks so its kludged Dont know whatll happen if we attempt to reconstruct  restore a local temporally speaking  sidebar
+
+December 2008 Okay and complete with the important comment that its an archived section
+
+January 2009 Also OK as above
+
+So pass the word along that some spadework has been done and its as selfexplanatory as I can manage to make it Thanx again for all the great work on this design unjustly neglected
+
+Now to wake up our 25yearold Yes its been a while

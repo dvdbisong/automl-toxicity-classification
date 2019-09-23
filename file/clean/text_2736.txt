@@ -1,0 +1,3 @@
+Interaction Parameter R0 
+
+Is there any reason the method for calculating the interaction parameter is not mentioned anywhere It just seems to be introduced as some mythical concept rather than pointing out that it is determined through trial and error based on empirical evidence of what solvents dissolve the material

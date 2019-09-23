@@ -1,0 +1,18 @@
+Help ImageTaggingBot trashed licenced images  
+
+How do I keep the ImageTaggingBot from trashing work 
+
+I created the following images and I included the correct copyright information but the ImageTaggingBot trashed the links 
+
+FilePulsedoppler ambiguity zonespng
+FilePulse doppler signal processingpng 
+FileWaveguidepng
+
+I dont want to put the images back because I will just be fighting with a piece of software 
+
+What has to be done to stop software from automatically trashing things 
+
+I hope this finds everyone well 
+
+Best regards 
+Greg Wilson

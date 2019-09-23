@@ -1,0 +1,1 @@
+Ammonia can be a health hazard and when determining the amount in the air or soil or water you need to run a linear regression curve to compare the sample to  While it may not be Health risk you need to see the small amount in order to quantify the amount

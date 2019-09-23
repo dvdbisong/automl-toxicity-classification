@@ -1,0 +1,1 @@
+This makes it simple to deal with the non fixed days New year and Boxing day and also allows an extra day to be proclaimed if Christmas day lands on a Saturday  though the alternate day still isnt a Bank Holiday Further additional Bank Holidays can be proclaimed for special events such as Royal Jubilees Royal Weddings etc

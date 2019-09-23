@@ -1,0 +1,5 @@
+Dopamine 
+
+Hi  Im trying to work cooperatively but when you place an incorrect statement into the article and then add a cn tag after it its hard to see how I can do anything except revert it
+
+Also let me point out that your edit borked the paragraph structure of the lead  In most cases the first sentence of a paragraph should function as a topic sentence telling the reader the goal that the paragraph is intended to accomplish  When you moved that sentence you gave the second paragraph a first sentence that is unrelated to the rest of its contents thereby violating the most basic principle of paragraph construction  Regards

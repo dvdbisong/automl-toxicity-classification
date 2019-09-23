@@ -1,0 +1,12 @@
+That explains how certain features dont appear to be geographicallycorrect Further to 117Avenues comments here I have the following
+portions of St Alberts boundaries are incorrect particularly
+southwest boundary should follow the shoreline of Big Lake and
+northeast boundary is incorrect refer to this CRB map
+the Sherwood Park Urban Service Area boundary south of Wye Road appears to be a tad exaggerated in terms of size please doublecheck referring to the above linked CRB map
+although the Sherwood Park Freeway is technically numbered Highway 100 it is not signed as such so I recommend removal note this other CRB map which was prepared by Alberta Transportation labels it as SPF with no background shield or oval
+numerous arterial roads in Edmonton are missing further to those recently identified by 117Avenue I recommend using the Edmonton TMPs Figures 39 41 and 71 as a starting point for what roads within Edmonton should be included
+numerous equivalent arterial roads in St Albert ie Levasseur Rd Meadowview AveMcKenney AveBellerose Dr Grandin Rd Sturgeon Rd Dawson Rd Hogan Rd and Sherwood Park ie Sherwood Dr between Broadmoor and Brentwood Granada Blvd Petroleum WayLakeland Dr Clover Bar Rd north of Hwy 16 Twp Rd 534 along the northernmost boundary are missing
+the applicable St Albert roads that actually extend to its municipal boundary should be extended as well
+Id also like to see RR 231 232 and 233 extensions of Sherwood Parks Clover Bar Rd Brentwood Blvd and Broadmoor Blvd shown between Sherwood Park and Hwy 628 and
+Id also like to the remaining Anthony Henday Drive legs that are not yet open shown in the same symbology but in a brokenline format with gaps to indicate it is under construction
+These are my comments for now

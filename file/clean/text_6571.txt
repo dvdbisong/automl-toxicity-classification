@@ -1,0 +1,1 @@
+Robotstxt are the scourge of the internet I should set up a crawler that ignores robotstxt files

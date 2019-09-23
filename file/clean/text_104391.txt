@@ -1,0 +1,3 @@
+Numbering tables 
+
+The problem with manually numbering lists of bridges is that new bridges are constructed all the time  There are several long bridges that are under constructions that will force a renumbering of the entire list  Your method while a little less confusing takes more work to maintain  Are you willing to take on maintaining the renumbering whenever someone adds a missing bridge  Im not sure it is worth the effort

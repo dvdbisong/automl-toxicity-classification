@@ -1,0 +1,1 @@
+I think the referenced page algebraic data type is a more standard definition than the one shown on this page  At the very least someone should add a disambiguation page

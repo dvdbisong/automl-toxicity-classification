@@ -1,0 +1,1 @@
+Hmm that would be pretty nice but other than checking back yourself manually or with a bot Im not sure if theres any perfect solution Only other idea I have is if you fiddle around with SpecialExpandTemplates to see if you can bypass some of those metatemplates A bit outside of my usual experience either way

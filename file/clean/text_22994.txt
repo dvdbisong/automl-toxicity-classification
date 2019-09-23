@@ -1,0 +1,6 @@
+Good enough for me right now  communicate that means talk 
+ styleborder 1px solid gray backgroundcolor fdffe7
+ rowspan2 valignmiddle  
+ stylefontsize xlarge padding 0 verticalalign middle height 11em  The Hidden Barnstar
+
+ styleverticalalign middle bordertop 1px solid gray  This user has found s secret hidden sub page Can you find it

@@ -1,0 +1,22 @@
+Basic PC shortcut keys
+
+Shortcut KeysTABDescription
+Alt  FTABFile menu options in current program
+Alt  ETABEdit options in current program
+F1TABUniversal Help in almost every Windows program
+Ctrl  ATABSelect all text
+Ctrl  XTABCut selected item
+Shift  DelTABCut selected item
+Ctrl  CTABCopy selected item
+Ctrl  InsTABCopy selected item
+Ctrl  VTABPaste
+Shift  InsTABPaste
+Ctrl  PTABPrint the current page or document
+HomeTABGoes to beginning of current line
+Ctrl  HomeTABGoes to beginning of document
+EndTABGoes to end of current line
+Ctrl  EndTABGoes to end of document
+Shift  HomeTABHighlights from current position to beginning of line
+Shift  EndTABHighlights from current position to end of line
+Ctrl  Left arrowTABMoves one word to the left at a time
+Ctrl  Right arrowTABMoves one word to the right at a time

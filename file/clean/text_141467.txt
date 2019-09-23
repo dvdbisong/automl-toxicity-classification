@@ -1,0 +1,2 @@
+Daily Closing Values 
+Does any one know  where can I find daily closing values and change from the preceding close of the DJIA going back to 1896  In particular I am interested to know IF  and WHEN  the DJIA ever had a daily change of 000 points from the preceding day  In other words were there days in which there was no change at all 000 points between one day and the next  Thanks

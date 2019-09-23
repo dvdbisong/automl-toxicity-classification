@@ -1,0 +1,3 @@
+Oh and one more thing he developed his Art of Unix Programming book in a Cathederal style and then released it under a nonOpenSource license  he used the most restrictive Creative Commons license Attribution required derivative works forbidden plus some additional restrictions which he wrote himself
+
+But I dont feel like spending too long adding criticisms to a wikipedia page so I sketched down my ideas here in case someone else wants to build on them or whatever

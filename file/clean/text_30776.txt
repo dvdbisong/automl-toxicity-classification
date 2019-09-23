@@ -1,0 +1,3 @@
+Copyvio discovered during AFD 
+
+If while in the process of AFD for nn one discovers that the article is instead copyvio whats the proper next step to take

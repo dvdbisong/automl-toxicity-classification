@@ -1,0 +1,18 @@
+And just for the record I unsurprisingly sincerely belief that not much new technology will come out of Newmans invention Even leaving all the contradictions to physics aside there is a much more pragmatic argument Any electric motor design which only cut backs losses by 50 going from 90 to 95 efficency would be of outmost commercial importance You would be able to go with bodyguards and lawyers if you prefer into the development centers of Siemens EMD or Bombardier demonstrate your working prototype and leave as a very rich man
+   
+RI2  heat losses
+RImetersohm  current times distance  current momentum
+Current momentum can be determined by integrating current along the length of wire with dl as the derivative length  It can be found in the BiotSavart law
+To maximize current momentum  heat losses the following should be maximized
+RImetersohm  RI2  metersohmI  crosssectional area of wire  resistivity  current
+But current momentum produces the magnetic field the square of which is proportional to its energy  So to maximize the energy of the magnetic field  heat loss
+R2I2metersohm2  RI2  Rmetersohm2  distance2ohm
+Just use a longer wire I guess the mere acceleration of two opposite charges converts mass into energy causing electromagnetic radiation Even the simple movement of a charge can cause a magnetic field causing acceleration and therefore radiation If the wire is so short that is like shorting the battery eg connecting them in series and not using the charges to your advantage  
+
+OK so Id like to start by saying that I may more or less completely misunderstand you but apart from a very good remark about the mass to energy conversion your statements look rather heterodox to me Granted Newman would have to have found new physics to make his machine work but I assume we are discussing textbook physics and EE in this side note Specifically
+ Its not the resistive heat losses or other losses which bound the electric motors efficency to 100 Even using a supraconducting coil and everything you wish you wont get above 100  the counter voltage induced by the rotation will make the input power needed to sustain rotation equal to mechanical work done
+ Equal amount of copper will give you motors of equal parameters only with voltages and currents scaled in different compensating directions Eg both thse setups will give the same magnetic field and motor operation
+ 1 meter of 015 mm diameter copper wire about 1 Ω at 4 V and 4 A stall current and
+ 4 meter of 0075mm diameter copper wire about 16 Ω at 16 V and 1 A stall current
+ But I agree with your guess that the mere acceleration of two opposite charges converts mass into energy Every time some energy is transported away from a system the system loses mass according to Emc²  in most cases an unmeasurable low amount Also if you temporarily attach strings to the oppositely charged bodies you can extract mechanical energy while reducing their distance exactly that amount of mass will be lost If we keep the system isolated its total mass stays the same eg when letting the two bodys clonking together the energy will first be converted to kinectic energy then to heat and both contribute to the mass of the system which in effect stays constant But in a motor the movement is periodic so there is nothing in sight which can result in mass loss  unless some copper atoms are vanishing mysteriously or sort of transmutate into something other than normal copper
+Ouch Not exactly briefly Sorry

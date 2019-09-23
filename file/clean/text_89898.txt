@@ -1,0 +1,1 @@
+Monobook is the default style for wikipedia If you go to the my preferences page you can change the style As far as the monobookjs file that allows you to add custom javascript mods to your monobook which you can do various things with WPTW explains how to install it

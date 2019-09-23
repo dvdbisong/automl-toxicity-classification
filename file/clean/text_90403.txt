@@ -1,0 +1,41 @@
+How safe is photo sharing 
+
+There has been a corresponding increase in the number and popularity of
+
+publicly hosted Web sites for sharing digital photos But is it safe to share
+
+personal photos  After all personal photos contain personal information about
+
+you and your family your interests and hobbies
+
+Safety in this context means that the personal information which can be
+
+identified and extracted from these photos is both private and secure
+
+Private means that access to the information can be restricted to the use
+
+of a particular person or group of people The owner of the information
+
+should control who has access to it
+
+Secure means free from danger and risk of loss ie making sure that the
+
+bad guys out there cannot access your information
+
+A photosharing Web site lets members upload and annotate photos that are
+
+posted on its siteSome sites offer these services for free while others charge
+
+a fee sometimes only for additional storage In general these sites make
+
+money by charging for prints cards and gifts such as calendars or coffee
+
+mugs imprinted with the photos Members can share their photos by sending
+
+friends and family the URL of their photo site Sometimes visitors must enter
+
+a username and password in order to view your pictures Sometimes this
+
+information is embedded in the URL As more people post their pictures online
+
+others are finding ways to exploit them

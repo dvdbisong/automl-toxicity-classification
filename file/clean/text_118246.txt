@@ -1,0 +1,106 @@
+MVI 
+
+CI TO TO SET UP SERV
+MVI DATE 10_10
+ADV NO_00 DEP
+_00 INIT FEE
+
+ 
+
+XFER
+
+CI TO XFER SERV
+MVI DATE 10_10
+MVO DATE 10_10
+ADV ORD MOD
+_00 INIT FEE
+
+ 
+
+SWAP
+
+CI TO CHANGE PLAN
+ADV NO ECF ON PREV PLAN
+OFFEREDCUST REQ FOR _
+SWAP MADE
+
+ 
+
+MVO
+
+CI TO CLOSE ACCT
+MVO DATE 10_10
+ADV ORD MOD
+UPDATED ACCT INFO
+
+MVO
+Were sorry to lose you as a customer and we look forward to having the opportunity to serve you again in the future Have a great day 
+
+NO SALECONS 
+Thank you for considering TXU Energy We value our customers and would like to be your energy provider  We are open 247 and hope to have the opportunity to serve you in the near future  Have a great day
+
+600 s mac 621 75019
+
+doris alexander
+
+9727453405
+
+6526
+
+ANI UNKNOWN
+
+9036410089
+
+17400
+CONF10044372
+
+ANI 9367079048
+
+DONALD YOUNG CI TO TO SET UP SERV
+MVI DATE 102610
+ADV 37000 DEP
+680 INIT FEE
+CUST REQ FOR CB TO COMPLETE ORDER
+
+2186223820
+
+2316
+
+2188315593
+chad
+
+IR Explanation
+
+Blessed morning
+
+This email is regarding the IR issued for the call I received last October 7 2010 BP Patrice McKenzie
+
+That afternoon I was the only one on the queue and prior to Ms McKenzies call I received a MVI call but MVI was not successful due to previous balance as well as the proof of residency required And because I was the only one on the qeue I wasnt able to log out or refresh my system
+
+During the call of Ms Mckenzie the POR pop box came and I informed the SME that time Mario Raymundo that I have not informed my customer because I know that it was system glitch Also because tnere is no active account on the address I was not the one who released the order but someone from Off Line Services I endorsed the account to Mario to make necessary adjustments on the account He texted me at around 1am to inform me that he had already talked to someone from OLS and that no POR is really required for the address so it was released
+
+After receiving the QA score I also sent an email to dispute the score that I got because I believe that I did not do anything that is not in accordance with the business rules
+Here are the reasons why
+1 I was the only agent in autoin for 1hour and 30mins
+2 I informed my support about the situation and I was approved that there is not need to inform the customer of the POR
+3 There is no active account on the address
+4 I was not the one who released the order
+
+I dont know what adjustments would be made but I hope there will be considerations
+
+Thank you
+God bless
+
+Andrea AMor G Ureta
+
+900008106810
+100012570199
+100013198462
+100013392850
+100013393337
+100013390286
+100013397755
+100012987475
+900031963598
+100013400624
+100013404120

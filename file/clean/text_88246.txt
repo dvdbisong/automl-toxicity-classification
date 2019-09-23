@@ -1,0 +1,4 @@
+Comment on BSAASA 
+
+Something which doesnt come out in the article but certainly up to about 196odd the ASA standard was a joint ASABSI standard but film speeds were commonly known as BS or ASA only because the arithmetic index was used in USA and logarithmic in the UK 
+The point being that a conversion was exact as both indices used the same test method but DIN  BS  10  say was a good rule of thumb only

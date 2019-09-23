@@ -1,0 +1,9 @@
+You are now a Reviewer 
+
+Hello Your account has been granted the reviewer userright allowing you to review other users edits on certain flagged pages Pending changes also known as flagged protection is currently undergoing a twomonth trial scheduled to end 15 August 2010
+
+Reviewers can review edits made by users who are not autoconfirmed to articles placed under pending changes Pending changes is applied to only a small number of articles similarly to how semiprotection is applied but in a more controlled way for the trial The list of articles with pending changes awaiting review is located at SpecialOldReviewedPages
+
+For the guideline on reviewing see WikipediaReviewing Being granted reviewer rights doesnt change how you can edit articles even with pending changes The general help page on pending changes can be found here and the general policy for the trial can be found here
+
+If you do not want this userright you may ask any administrator to remove it for you at any time

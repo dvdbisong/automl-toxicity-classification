@@ -1,0 +1,18 @@
+stylebackgroundcolorF5FFFA padding0 cellpadding0
+classMainPageBG styleborder1px solid lightgrey backgroundcolorlightgrey verticalaligntop color000000 fontsize85
+ Hello 8614415116 Welcome to Wikipedia Thank you for your contributions I think its very important for you to browse through some of the links below so as to become familiar with how Wikipedia works If you need any help you can ask me on my talk page or place helpme on your talk page and another Wikipedian will show up shortly Please remember to sign your name on talk pages by clicking  or by typing four tildes  this will automatically produce your name and the date If youre already loving Wikipedia and plan on becoming a Wikipedian you might consider being adopted by a more experienced editor just paste Adoptme into your userpage and you will gladly be adopted You might also consider joining a WikiProject so as to collaborate with others in creating and improving articles of your interest Click here for a directory of all the WikiProjects Finally please do your best to always fill in the edit summary field Happy editing  
+ width100 stylebackgroundcolorwhite
+classMainPageBG stylewidth 55 border1px solid white backgroundcolorlightgrey verticalaligntop
+ Getting Started Wikipedia Tutorial  The five pillars of Wikipedia
+ How to edit a page  upload an image Getting Help Frequently Asked Questions
+ Where to ask questions or make comments
+ Request administrator attention Policies and Guidelines Neutral point of view  Reliable sources
+ Verifiability  Citing sources  No original research
+ What Wikipedia is not  Biographies of living persons
+
+ Manual of Style  Threerevert rule  Sock puppetry
+ Copyrights  Fair use  Image use policy
+ External links  Spam  Vandalism
+ Deletion policy  Conflict of interest  Notability
+classMainPageBG stylewidth 55 border1px solid lightgrey backgroundcolorSeashell verticalaligntop
+ width100 cellpadding0 cellspacing5 styleverticalaligntop backgroundcolorSeashell

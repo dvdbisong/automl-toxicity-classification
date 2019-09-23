@@ -1,0 +1,1 @@
+It is only simple if the user understands Python The syntax of writing the Luhn algorithm is confusing enough without having to learn a new language just to understand the algorithm

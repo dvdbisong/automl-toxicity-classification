@@ -1,0 +1,1 @@
+Lowlevel languages such as machine code are also programming languages All programming languages are in principle both human and machinereadable but the relative emphasis varies

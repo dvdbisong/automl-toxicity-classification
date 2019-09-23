@@ -1,0 +1,1 @@
+The minimum search expected before nominating an article for deletion is a Google Books search and a Google News archive search Such searches should in most cases take only a minute or two to perform

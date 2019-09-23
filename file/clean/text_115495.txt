@@ -1,0 +1,13 @@
+Initial comments 
+At first pass this looks quite good Its comprehensive well sourced and well written and seems generally ripe for promotion Ive made a few tweaks as I went feel free to revert any with which you disagree
+
+Here are a few quibbles that I couldnt immediately resolve myself
+
+Id suggest splitting the lead into two paragraphs for readabilityperhaps at Increased expenses and decreasing ridership
+with two railroad stations in operation one on the CO line and the Union Station just west of the CO station at the junction between the CO and Southern railroads  I found this part of the sentence hard to follow at first glance maybe break this off as a second sentence two railroad stations in operation One was on the CO line and the second the Union Station was just west Am I understanding the meaning correctly in this rewrite
+Development of the streetcar system  Id suggest breaking this long paragraph into at least two for readability Perhaps at this continued until
+Route Description  split large paragraph for readability
+Two statements here that it would be better to fix in time per WPREALTIME for clarity in the longterm
+To address these issues the city has begun planning and analyzing various methods of public transportation for implementation within Charlottesville one of which includes the development of a streetcar system in the early 2000s the city began
+ though no concrete plans have been developed or implemented as of 2012
+The track gauge given in the infobox needs a source

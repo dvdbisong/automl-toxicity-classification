@@ -1,0 +1,3 @@
+and WikipediaDatabase reportsPolluted categories  broken links still being used in updates 
+
+Hi I just wanted to let you know that BernsteinBot is still linking to two of your toolserver tools that alas were killed off by the tyrants benevolent overlords of the Wikimedia Foundation Im not sure if youre planning to move them over although Id hope you consider it but in the meantime it might be best just to remove that piece of codeformatting from the updated lines tc

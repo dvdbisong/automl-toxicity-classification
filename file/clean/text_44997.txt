@@ -1,0 +1,14 @@
+When alleles clash
+This is the model for editing a reverse orientation
+AT
+TA
+CG
+GC
+rs381900111128776TT My result 
+httpwwwncbinlmnihgovprojectsSNPsnp_refcgirs3819001
+httpmutdborgcgibinmutdbplsnprs3819001variant291487rsidNM_004195
+Wild type nucleotideTABATABTAB
+Variant nucleotideTABGTAB
+Chromosome strand orientationTABreverse
+Given the above the TT represents the A or Wild type Am I correct in this assumption 
+John Lloyd Scharf

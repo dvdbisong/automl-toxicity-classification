@@ -1,0 +1,4 @@
+Is MACD really a velocity 
+
+In signal processing terms the MACD is a filtered measure of velocity
+Is that correct Given a constant trend MACD equals zero constant but not the velocity

@@ -1,0 +1,1 @@
+Proposal based on this support More thoroughly flesh out this notion using Ginsbergs article as support This will not solve the problem of readerfriendliness but it will go toward the problem of accuaracy

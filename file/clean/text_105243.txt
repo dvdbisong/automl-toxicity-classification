@@ -1,0 +1,1 @@
+When half the page doesnt show up its usually because one of your closing ref tag is missing a  Ive fixed this on two or three pages youve started This time I didnt notice that there was an incomplete ref tag before the one I fixed which is why the ref section looked strange

@@ -1,0 +1,1 @@
+Carl I think you need to explain first why you cannot prove a conditional by assuming the hypothesis is false otherwise the natural language example is not doing its job

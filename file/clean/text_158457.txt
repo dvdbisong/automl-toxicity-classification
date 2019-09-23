@@ -1,0 +1,24 @@
+do any change to a picture in the Image viewer of Windows the changes are automatic saved with No alternative 
+
+I beg them to solve it or at least give us the alternative  Excuse my English talk me 
+Its already mentioned at Windows Picture and Fax ViewerKnown issues    
+Compatibility
+Paul Thurott has written an article about compatibility issues with the Beta which makes me doubt the final releases compatibility  
+
+Removed Features
+ 
+ 
+ __I dont know why the Removed Features section claims that the classic start menu and taskbar will be
+ removed Nor do I know why the Inkball game is supposedly removed This section cites no references and these
+ claims are the most questionable  
+
+Im not sure as the the reasons as to why they were removed but I can tell you that Ink Ball is not found anywhere in the beta release Im not sure about the classic start menu and taskbar i dont see an option for them but I didnt look all that hard   
+
+ Inkball only appears in Tablet Edition windows products  Is there a tablet addition of the Windows 7 beta   
+ Hmm I may be wrong there  The article mentions that it also appeared in Vista Home Edition  Still Cant imagine its very fun with a mouse   
+It does indeed come with Vista Home Premium not sure about other editions   
+It also comes with Ultimate But anyway mentioning it has been removed if the only evidence we have is its not included in the current beta is an incredibly bad idea We need a reliable source saying Microsoft has decided to remove it There could be plenty of reasons why its not in beta only one of them is Microsoft has decided to remove it completely   
+
+ Beta Release 
+
+The date of the release of the Beta should be January 7 Release on MSDN to TechBeta and TechNet customers or January 9 Release to public    Excuse my English talk me 0604

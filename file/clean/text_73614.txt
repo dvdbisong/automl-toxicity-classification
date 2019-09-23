@@ -1,0 +1,1 @@
+Thanks for adding references Karl  Unfortunately youre adding them to the inferior version prior to Xiaphias changes which means they get lost when I revert back to Xiaphias version  Can you add them to the better version of the article instead   T

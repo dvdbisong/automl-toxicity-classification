@@ -1,0 +1,2 @@
+Ive found and fixed all instances of that journal value pointing them to Clinical Cancer Research
+ chat

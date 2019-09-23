@@ -1,0 +1,3 @@
+Hi Eiocos this edit where you placed the URL outside the link was the only one I meant to revert Placing the address of the link outside of the link is redundant
+However it looks like my rollback undid all of your edits rather than just that one in particular I have reinstated your edits and made the correction I originally intended
+Thank you for messaging me about this mistake hadley

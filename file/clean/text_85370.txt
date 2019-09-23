@@ -1,0 +1,3 @@
+Interquartile range of distributions 
+In the table what is phi1
+Also under Interquartile range test for normality is there a reference or more importantly is there an objective way to define differ substantially ie is there a proper test rule for this that gives probability values

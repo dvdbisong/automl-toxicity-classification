@@ -1,0 +1,8 @@
+Morphology 
+
+I think that a few words should be written about endings of various kinds and of distinctions of cases  There seems to be some misunderstandings here and there in the project with claims that German has preserved the protogermanic grammar or similarly  This is not 100 true although German certainly has preserved much of the grammar  I therefore think that mentioning the instrumental case and the fact that there were more different endings in OHG than in modern High German is interesting enough to merit a section  I do not think we should try to reproduce all paradigms but some representative sample  However I just know them from rather old books and these books do not very carefully distinguish different epochs or dialects within the OHG
+I had in mind an example like this
+
+    Sing    Pl N    tag    taga G    tages    tago D    tage    tagum A    tag    taga I    tagu    not distinguishable
+
+and a few words on how eg 1st and 3rd p pl of the verbs then were quite distinct in pres ind normally ending in mes and nt and in pret m and n respectively where in the modern language a final m is replaced by an n making the forms indistinguishable  Is this sensible

@@ -1,0 +1,1 @@
+I note that theres no address and phone parameters at TemplateInfobox church  If I change address to read location the address does display  Im not sure if street address is normally included in church infoboxes the documentation at TemplateInfobox churchdoc seems to indicate otherwise

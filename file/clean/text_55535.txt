@@ -1,0 +1,6 @@
+Multicasting 
+
+Is this meaning of multicast official or just made up
+Anyway the link points to a completely different meaning of multicast so youd have to
+create a new multicasting programming page or something like that
+Seen also on Comparison of C Sharp and Java

@@ -1,0 +1,7 @@
+Orbit of the Moon 
+
+So apparently there are some sources that describe the Moons orbit as convex and some that describe it as concave  People have a tendency to mix up the terms convex and concave  Damn whatever idiot decided to use such similar words for such an obscure concept  Rather than attempt to determine which sources have more authority I suggest we look at the actual definitions of the words  All the sources agree that the Moons orbit has no loops  And the Wikipedia article Convex and concave polygons seems to imply that a circle without loops would be convex rather than concave
+
+Some of the sources describe it as convexconcave inwards vs convexconcave outwards  I think that distinction is nonsense  Something is either convex or concave  Convexity and concavity have no distinction with respect to inwards or outwards  When they say that the Moons orbit is convex with respect to the Sun I think they just mean that as opposed to convex with respect to the Earth
+
+So I still think Im right on this and Im not inclined to change my edit  Except maybe to link to the article on the definition of convex to avoid this misunderstanding in the future  But now that Ive expanded on my reasoning if you still think it contains a mistake feel free to let me know why

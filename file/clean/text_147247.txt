@@ -1,0 +1,1 @@
+Try using the dlw template or resourcing Failing that simply remove the URL but keep a plain text reference to the original source Derex

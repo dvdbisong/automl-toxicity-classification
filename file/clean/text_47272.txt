@@ -1,0 +1,16 @@
+Proposed wording on the generalities of autoformatting 
+
+Since the key members of the proautoformatting sideUC Bill and Locke Colehave conceded that the results of the previous RfC on son of autoformatting would likely repeat itself if we conducted an ArbComsponsored RfC  here where Locke wrote  I am tempted to ask that you Ryan issue a declaratory judgement due to their default I cant help but suspect that they knew all along that the previous RfC was a fair measure of the true community consensus when Locke dragged us all to this ArbCom However
+
+I instead propose that we do as Locke proposes present autformatting to the community in a more generalized manner not attached to any specific implementation such as UC Bills son of autoformatting as described above
+
+Here is what I would propose
+
+Statement by Clerk Ryan Postlethwaite
+
+Statement for
+
+Statement against
+342 words
+quotationWe adhere to the fundamental principle that all editors should see the same article content as regular IP users
+The Wikipedian community does not want to have date formatting tools in articles that creates a default format for a given article for all regular IP readers to see and which then provides a custom view per the preferences setting that would benefit only A regi

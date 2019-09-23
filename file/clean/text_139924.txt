@@ -1,0 +1,3 @@
+Street Fighter template
+
+Ive put the width back to 100 but Id really rather keep the ndashs for now tho I did replace them with the unicode ndash not to be confused with a hyphen on ye olde keyboard so they wouldnt look so ugly when viewededited BTW sorry for the lag time in responding I missed your reply till today   talk email

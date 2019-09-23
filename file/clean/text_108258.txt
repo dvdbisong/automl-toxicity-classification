@@ -1,0 +1,60 @@
+Linux vs GNULinux
+
+20040531 2345 Hi David Gerard
+
+You seem to have removed all the clarifications of the previously vague text  Encyclopedias should be impartial and correct  You have put back all the confused use of Linux and removed spellinggrammar corrections  Really the Linux distributions entry should be clear about what it is and impartial to any of your leanings  The version you have reverted to is an umbrella description which could be read as matching more than it in fact does  The text should reflect correct and actual use of the term including any that others may consider incorrect it just should not blot out eitheror as it does mostly at present
+
+Ok and for the other minor revisions you removed
+
+eg  eg
+eg is just incorrectly spelt eg is the abbreviation of latin exampli gratia and should be written eg see OED for reference please
+
+predetermined  predetermined
+
+preconfigure  preconfigure
+requires hyphen as conjoined words
+
+PCs  IBM compatible PCs
+PCs is an abbreviation of Personal Computers this case only refers to IBM compatible PCs  Not Apple PCs for example  So presently 
+
+targeted for China   targeted at the Chinese market
+grammar is simply wrong
+
+In the Xandros section
+commercial  proprietary
+Are you unaware that GNULinux is typically commercial so the commercial point is irrelevant the relevant point is that it is PROPRIETARY commercial software  There is  no point emphasising  a pointless piece of information
+
+cooperation  cooperation
+requires hyphen as conjoined words
+
+If you hold some position of seniority here please consider putting my clarifications back in  At least consider the grammatical and spelling revisions if you are intent on the Linux use being unsuitable as present
+
+Glad to see you did not revert my Proprietary software revision
+
+My comments in this post are intended to be polite please do not consider my explanations patronising
+
+Cheers now3d
+
+I dont hold a position of editorial seniority there isnt any such thing However the Linux to GNULinux stuff is clearly partisanism and POVpushing Please reread TalkLinux and TalkGNULinux naming controversy And NPOV In English Linux is far and away the most common name for what you and I would prefer to be called GNULinux pretending it isnt would not to my mind be appropriate
+
+Typos eg youre right on the others I think are arguable either way Ill have a look through   1300 1 Jun 2004 UTC
+
+Ive had a go The facts seem more or less in order I could dispute a few bits but the whole article is really badly written and needs serious rewriting by someone whos a good writer in English Ill make an attempt later but anyone else who wants a go is of course welcome 
+
+In the distro list Ive attempted to avoid Linux vs GNULinux by sticking to the word distribution and only included one or the other when its part of the name or when GNU is actually optional does Linux from Scratch still tell you how to use BusyBox and uClibc for instance
+
+Further work on this article is desperately needed and I mean a lot more than tweaks of hyphenation   1648 1 Jun 2004 UTC
+
+Thank you for applying those gramatical revisions  I just added cooperation Regards UserNow3d
+
+ Jimbo Wales on GNULinux as the correct naming convention 
+
+I would like to offer my opinion The project to excise all references to GNULinux is deeply POV and wrong It should be reverted completely and totally as quickly as possible Virtually all references to Linux should be references to GNULinux I am certainly unaware of any community consensus which would support the draconian and absurd campaign that has been conducted against the correct naming conventionJimbo Wales talk 
+
+  
+
+Why is this article move protected so that it cant be given the correct name  said  done 
+
+Old discussions
+Alternate Definition for Distribution
+When talking on the gentoo channel on freenode I found out that many gentoo ops concide

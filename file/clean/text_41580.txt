@@ -1,0 +1,12 @@
+Equation in text 
+
+I see the following equation at the beginning of the 2nd paragraph in this entry
+314  89  85496236  6972
+
+The equation does not appear in the edit this page tab  I havent really delved into editing the Wiki so I hope youll pardon me if Im showing my noobness  I also havent posted in the discussion tab before so I hope Im doing this correctly
+
+ 
+
+EDIT Nevermind the equation has now disappeared
+
+Yes it was removed by me yesterday You were probably watching a cached version of the article Next time something similar happens you should do a hard refresh in your browser Ctrl  F5 will do in both Internet Explorer and Mozilla Firefox Command  R if you are using safari  Talk  contribs

@@ -1,0 +1,5 @@
+Local maxima 
+
+Feller says that unimodal distribution is a distribution function that is convex up to the mode and concave beyond it Thus it may have density taking maximal values on an interval say uniform distribution on 01 In this case all points in 01 are local maxima or there arent any if we consider strict peaks only Therefore I suggest a more general definition of a unimodal function a function whose local maxima make up an interval
+
+Moreover it might be worth replacing this allows for the possibility of a nonzero probability for xm with in this case the distribution may have density everywhere except possibly m this allows for the possibility of a nonzero probability for xm

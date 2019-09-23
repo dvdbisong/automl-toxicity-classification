@@ -1,0 +1,3 @@
+WikipediaDate_formatting_and_linking_pollAutoformatting_responses 
+
+Regarding your comment in support of your opposition to date autoformatting Id like to make it clear that date autoformatting and date autolinking are two completely different issues  Its currently possible thanks to a recently installed patch by

@@ -1,0 +1,1 @@
+Its strongly encouraged  Helps highlight what youre changing  Even a brief typo fix or fmt headings short comment is good Best regards

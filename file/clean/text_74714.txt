@@ -1,0 +1,7 @@
+Is there an easy way to block the entire tk domain 
+
+My virus program finds a lot of malware from the tk domain and they still wont take down paid for domains that are known malware vendors Id like to just block the whole thing 
+
+I tried tk in my hosts file but that didnt work and it doesnt take wildcards like tk 
+
+Oh the malware was at www2megosave2tk  and about a dozen other variants Tokelau has yet to take it down Maybe next year after two million more exploitaffected machines

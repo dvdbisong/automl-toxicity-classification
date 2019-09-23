@@ -1,0 +1,3 @@
+Updating engine and chassis info 
+
+Hey just another comment on your recent edits You say you are updating the chassis info in the results tables except you arent You are introducing information that is implicit the page is about car X so we dont need to be told that the results refer to car X unless the page also covers variants XA and XB and removing information on the cars entrant Please stop Feel free to add the engine name to the engine field but removing the cars entrant field is not at all helpful e

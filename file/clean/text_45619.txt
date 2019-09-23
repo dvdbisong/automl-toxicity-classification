@@ -1,0 +1,4 @@
+Response
+
+Its just a matter of terminology with System we refer normally to IT automation with Business the domain So basically we agree The Business Analyst applies analytical skills to gather the requirements what the business wants or needs The solution can be paper based people process or guess what an IT system
+With Waterfall or Argile its just a matter of revisiting the Business requirements to ensure that they are still valid Hope that helps

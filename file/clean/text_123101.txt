@@ -1,0 +1,3 @@
+Trouble with refs 
+
+Hi Johan Do you want a hand with adding that reference in Lake Titicaca The way youve done it at the moment gives it a fixed number which will get out of synch as more refs are added The trick is to integrate it with the text insoide    tags and let the reflist template take care of composing the list in real time

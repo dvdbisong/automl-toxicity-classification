@@ -1,0 +1,5 @@
+slow the VFDTOAFD bot down 
+
+Hello
+
+Would it be possible to slow the VFDTOAFD bot down  Its not overwhelming the bandwidth or resources of Wikipedia but it is overwhelming the ability of human eyes to monitor the pagemove log more than 5000 edits today alone  Once any currentlybeingvotedon VfDs are converted to AfD I think that happened already quite some time ago the old archived ones can be converted at much more leisurely pace no  Perhaps a few hundred a day  Hardly anyone ever really looks at old archived VfDs so theres no screaming urgency  My worry is specifically that vandals may sneak in some pagemove vandalism in there that no one will catch in the midst of thousands and thousands of other pagemoves or a vanity userspace page will get moved to article space and no one will catch it last time I checked such a pagemove didnt show up in the Newpages log   How much more of a backlog is there for the bot to do before completion

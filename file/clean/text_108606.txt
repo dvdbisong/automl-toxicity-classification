@@ -1,0 +1,4 @@
+Yes youre right the release notes does not have this fix included for one reason or another I recorded the outbound connections using WireShark and BitComet does not connect to any servers if all options are disabled as it did in the earlier versions I think its a mistake made by the individual that has written this log 
+However it does say GUI Improved new option in advanced setting page query task comment and snapshot info automatically
+Disabling these two new options make it possible to seize all contact to BitComet servers 
+The Hash Reporting is enabled by default by the way

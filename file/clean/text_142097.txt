@@ -1,0 +1,3 @@
+Template parameters
+Defiantly date is the way to go  The templates can be made temporarily to support both and I have a technique for seguing from one to the other  Historically there was a mishmash and even I at that time working with them on a daily basis couldnt always remember which was which  Also SmackBot a can add date if I set it up properly It used to add or remove as appropriate  well I think there are still a few cases where it removes  Farmbrough 1343 1 June 2007 GMT
+PS I work by evolution run the Bot and see whats not been fixed sharpen up the regexes and repeat with the occaisional refactor so I will catch most things in time  Farmbrough 1343 1 June 2007 GMT

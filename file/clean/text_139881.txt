@@ -1,0 +1,4 @@
+How about in bash
+ barename  basename 1  sed e s 
+ barename dirAdirBsomebasefileext
+somebasefile

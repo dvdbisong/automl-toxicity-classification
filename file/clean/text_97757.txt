@@ -1,0 +1,13 @@
+classmessagebox standardtalk idtalkheader aligncenter styletextaligncenterbackgroundcolor FFFFFF
+
+ colspan2 styleborderbottom1px solid C0C090 backgroundcolor F8EABA 
+Welcome to s talk page
+
+ stylebackgroundcolor FFFFFFtextalignleft 
+To leave me a message click here
+Please sign your comments using four tildes  Place comments that start a new topic at the bottom of the page and give them A descriptive header If youre new to Wikipedia please see Welcome to Wikipedia and frequently asked questions
+Do not remove comments from others I strongly encourage free speech on my talk page and I will not censor messages no matter how offensive unless they clearly impair the pages functionality
+ stylebackgroundcolor FFFFFF 
+Talk page guidelines
+
+Please respect Etiquette assume good faith and be nice

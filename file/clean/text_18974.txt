@@ -1,0 +1,5 @@
+Motorsport infobox 
+
+OK I agree with what you are saying If the information is available then it should be added However when I went to add the template to British Formula One Series I couldnt find any data about any teams in the series I know which drivers ran which cars but not the teams that were running them I suppose I could add a question mark or something like that for those fields I can add constructor and engine info but Im not sure how relevant it is being as most of the cars were second hand
+
+I realise making the change to the template was a bit bold on my part without considering why those fields might have been left You are welcome to revert the changes back

@@ -1,0 +1,10 @@
+Conversion to GBP 
+
+I have removed the following text because I not only cant find anything to back it up but also because I am aware of specific instructions to the contrary
+
+The Falkland pound has always been equivalent to the Pound sterling
+
+Reasoning
+ OANDA specifically quote a FKPGBP rate which differs over time
+ I work for a UK clearing bank and we are certainly aware of the procedure  daily exchange rates for FKP are sent to us
+ Point 2 backed up by Thomas Cook Bureau de Change staff

@@ -1,0 +1,1 @@
+It is unclear in what is written if the WEP key is sent from the AP to the wireless device that is trying to connect So what I am getting at is where is the WEP key created and then which end revises it Someone please add this information

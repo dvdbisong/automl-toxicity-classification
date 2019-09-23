@@ -1,0 +1,3 @@
+Something wrong with the table 
+
+According to the French Government document cited  there are 116438 French citizens living in the United States of America    So why does the table as displayed show 11 million  clearly a nonsense   When I try to edit the table   the source of the table appears to have the correct 116438 number in it  but that is not what is displayed  There is something wrong with the table but it is not clear to me how to fix it

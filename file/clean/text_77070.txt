@@ -1,0 +1,2 @@
+Handling stuff 
+How would you recommend handling somthing like this   Is it better to ref the WPCIVIL policy ignore it or something else  How would an admin handle it differently than a user  Thanks

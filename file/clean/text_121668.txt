@@ -1,0 +1,9 @@
+Recent edits by Guy Macon is undone 
+
+The following edits are reverted
+ Edit 1 URL now points to actual source not to a repost PC  Tech Authority is a reliable secondary source even more reliable than BetaNews because it has an editorial and oversight committee Therefore per WPRS it is the preferred source although it might be a repost
+ Edit 2 Fixed outdated EULA info No you didnt You changed the link from Microsoft Safety Scanner EULA to Microsoft Security Essentials EULA which is blatantly wrong The EULA links is working perfecting
+ Edit 3 Fixed references list was split into referencesfurther reading checked every URL and updated access date Well this edit is in violation of WikipediaManual of StyleLayout which says it must be split into two section Besides you also removed archive link and quotation which hampers Verification
+ Edit 4 Removed Notes section Wikipedia is not a tutorial on how to use Microsoft webpages Wikipedia requires verifiability and everything that helps verify info and locate them is more than welcome Your edit deters verifiability
+ Edit 5 Fixed ref error  See above
+ Edit 6 Deleted unsourced claim According to AVTests Andreas Marx is hearsay not a citation plus even the the hearsay only says it appears to be based on MSRT not uses the same detection engine and malware definitions as MSE and MFEP Huh What are you talking about

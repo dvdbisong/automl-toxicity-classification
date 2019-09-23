@@ -1,0 +1,36 @@
+Underhill et al 20 groups based on Y chromosome
+
+The following is extracted from the archives mainly for 195 The referenced article is readily available online at httpwww2smumneduuasalDNAWWWpdfsUnderhill2000pdf
+It is well worth reading very closely
+ 0638 18 Jan 2004 UTC
+
+Here is a summary of a phylogenetic tree based on analysis of the Y chromosomes of 1062 individuals from around the world The tree comes from  It has 20 population clusters but only captures 18 of the variation in the haplotypes That is many of the haplotypes are spread in various ways amongst the identified groups The details are given in a table in the paper
+
+Underhill et al did not have adequate data on New Guinea and Australia and so created a single group for them all It looks as though they may have missed some interesting areas altogether
+
+In the following
+
+     X Y means X and Y are leaves that are directly joined together
+     AB is just the name of a single group 
+
+The tree has three main lobes ABC
+
+ A Sardinia
+    Sudan Ethiopia
+ B America
+    Mali
+    Khoisan
+    SAfrica CAfrica
+    New GuineaAustralia grouped for lack of data
+    CambodiaLaos
+    Japan
+    Taiwan China
+ C Europe Basque
+    Morocco Mideast
+    CAsiaSiberia
+    Hunza
+    PakistanIndia
+
+Peak 0904 10 Dec 2003 UTC 
+
+END

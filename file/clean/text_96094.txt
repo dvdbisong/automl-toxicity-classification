@@ -1,0 +1,3 @@
+Problems configuring archive page 
+
+I am having problems configuring autoarchiving with ClueBot III  I want the archived threads to go to User talkJPMcGrathArchive 1  I first set up the template with archiveprefix  User talkJPMcGrath  format  i and it archived to User talkJPMcGrathArchives 1  Then I changed it to archiveprefix  User talkJPMcGrathArchive  format  i and it archived to the same page  What am I doing wrong

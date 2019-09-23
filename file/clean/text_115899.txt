@@ -1,0 +1,1 @@
+I think 655354 is correct because for every combination 65335 port probes are sent to determine if a port has been opened on the target system  The article explains that in would require an attacker without prior knowledge of the sequence to test every combination of four ports in the range 165535 and then to scan each port in between to see if anything had opened LuisMGarcia

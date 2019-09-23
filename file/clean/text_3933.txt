@@ -1,0 +1,7 @@
+Invitation to WikiProject Breakfast
+ styleborderspacing2px margin0px width90   
+ classMainPageBG stylewidth 55 border1px solid black backgroundcolorFFF colorFFFfontsize 90
+ width100 cellpadding2 cellspacing5 stylebackgroundcolordff2f3
+  Hello Edison
+You are invited to join WikiProject Breakfast a WikiProject and resource dedicated to improving Wikipedias coverage of breakfastrelated topics
+To join the project just add your name to the member list talk

@@ -1,0 +1,9 @@
+Splice script 
+
+If there is a history merge script that can take parameters Id like to modify  so that all you have to do is click on a link to activate the script  The link would be prepopulated by the editor who placed the histmerge request with things like
+ Mergeto page
+ Mergefrom page
+ Starting edit of mergefrom page to be merged in default oldest edit
+ Ending edit of the mergefrom page to be merged in default newest edit
+ Any other parameters that are needed for the script
+If I can figure out how to do it the updated histmerge template would show an alert if there were overlapping edits andor edits that by virtue of edits not included in the startingtoending range edits which the requester indicates should be discarded  As I dont have admin access It would be helpful to have a copy this script to study it and someone willing to betatest it when it was ready for testing talkcontribs

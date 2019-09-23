@@ -1,0 +1,2 @@
+rDNS 
+Actually no sir You removed the wrong sentence According to RFC1912 an IPaddress can only resolve into ONE hostname which is logical since otherwise it wouldnt be resolving to a name at all That was exactly my point The RFC is this strict because it assures auth options like whitelisting and such Since only one name can resolve out of each IPaddress and unique IPv4 addresses are hard to come by these days there is no way to keep combining the two My statement was entirely correct so I will reverse your stupid changes

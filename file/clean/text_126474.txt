@@ -1,0 +1,11 @@
+FileDemjjpg 
+
+Hi 
+
+You have changed  from int main to int mainvoid  in my program  
+
+I see you are C programmer so can you write something about this change Im amatour so your comment is wellcome If you see any weak parts of this program pleas ad comment or propose better version 
+
+I was trying to make my program multiplatform and as I know even old version could be run on win linux and mac 
+
+Best regards

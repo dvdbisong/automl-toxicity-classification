@@ -1,0 +1,28 @@
+Hi Shiva
+Dear 
+First of all purpose are different 
+
+Shiva already has columns for region and mentions cities
+Region represents geographical region of india not state and city
+
+Purpose  to provide the link to user to the  geographical termpage of india 
+
+Structure 
+
+Climate  Climate  Climatic regions 
+Geology  Geology  Geological history 
+Landforms Mountains  Glaciers  Volcanoes  Valleys  Rivers  Lakes  Desert  Islands  Extreme Points  Waterfalls  Beaches
+Plains Gangetic Plains  Eastern coastal  Western coastal 
+Regions  North India   NorthEast India   East India  South India   West India  Central India 
+Subdivisions  States and territories  Cities  Districts  Autonomous regions  Municipalities 
+Environment Ecoregions  Sanctuaries  National Parks   Biosphere Reserves  Protected Areas  Wildlife  Fauna  Flora 
+
+Purpose  to provide the link to user to the geography page of state 
+
+Structure
+
+States  Andhra Pradesh  Arunachal Pradesh  Assam  Bihar  Chhattisgarh  Goa  Gujarat  Haryana  Himachal Pradesh  Jammu and Kashmir  Jharkhand  Karnataka  Kerala  Madhya Pradesh  Maharashtra  Manipur  Meghalaya  Mizoram  Nagaland  Orissa  Punjab  Rajasthan  Sikkim  Tamil Nadu  Tripura  Uttar Pradesh  Uttarakhand  West Bengal 
+ 
+NCT  Delhi 
+ 
+Territories  Andaman and Nicobar Islands  Chandigarh  Dadra and Nagar Haveli  Daman and Diu  Lakshadweep  Puducherry

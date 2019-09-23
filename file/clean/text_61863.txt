@@ -1,0 +1,30 @@
+fringe theory 
+
+The article currently contains the sentence
+
+ Richard Stallman says that proprietary software commonly contains malicious features such as spying on the users restricting the users back doors and imposed upgrades
+
+This is problematic on various levels
+
+NPOV  neutral point of view NPOV means representing  all significant views that have been published by reliable sources  Stallmans view is hardly a significant view
+undue weight  Generally the views of tiny minorities should not be included at all
+It is a Fringe theory  conspiracy theory backed by absolutely zero evidence from WPFRINGE
+
+An idea that is not broadly supported by scholarship in its field must not be given undue weight in an article about a mainstream idea1 and reliable sources must be cited that affirm the relationship of the marginal idea to the mainstream idea in a serious and substantial manner
+
+We use the term fringe theory in a very broad sense to describe ideas that depart significantly from the prevailing or mainstream view in its particular field
+
+A conjecture that has not received critical review from the scientific community or that has been rejected may be included in an article about a scientific subject only if other highquality reliable sources discuss it as an alternative position
+
+Care should be taken with journals that exist mainly to promote a particular viewpoint Journals that are not peer reviewed by the wider academic community should not be considered reliable except to show the views of the groups represented by those journals  The FSF is clearly an organization with certain political views clearly not a reliable source
+
+Quotes that are controversial or potentially misleading need to be properly contextualized to avoid unintentional endorsement or deprecation What is more just because a quote is accurate and verifiably attributed to a particular source does not mean that the quote must necessarily be included in an article
+
+The best sources to use when describing fringe theories and in determining their notability and prominence are independent reliable sources
+
+Points that are not discussed in independent sources should not be given any space in articles
+
+Independent sources are also necessary to determine the relationship of a fringe theory to mainstream scholarly discourse
+____
+
+User Pnm stated His perspective belongs in the article because hes prominent critic but that is highly debatable is his view the particular one about spywarebackdoor discussed in reliable sources Do we have reliable sources that support he is a prominent critic It should also be noted that being a prominent critic by itself is not a valid rationale for inclusion

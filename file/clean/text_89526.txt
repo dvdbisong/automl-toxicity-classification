@@ -1,0 +1,8 @@
+Reverting parenthetical statements 
+
+Regarding these reverts
+
+httpenwikipediaorgwindexphptitleJohnny_Behanactionhistorysubmitdiff341431931oldid341431797
+httpenwikipediaorgwindexphptitleJohnny_Behandiffnextoldid341431931
+
+While Im pretty sure the avoidance of parenthesis is mentioned somewhere in the guidelines if someone adds information in parenthesis that alone doesnt make the information any less viable Its just been styled in a lessthanideal way and should be reformatted rather than reverted if anything Editors should be careful with reverts and not use them as a catchall solution to any problem introduced into an article More often than not with a little effort a better solution exists  talk 0316 13 Feb 2010 UTC

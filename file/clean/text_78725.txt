@@ -1,0 +1,3 @@
+More information 
+
+Looking at Video Codec Engine this article could use some more information Eg how can Nvidia NVENC be accessed by GStreamner or HandBrake

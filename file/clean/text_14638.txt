@@ -1,0 +1,3 @@
+It definitely is an interesting addition to the article  The only question is whether you can really justify fair use in this case  On the other hand Im not sure if you can really assert copyright over plain text  PNASs copyright policy on submissions suggests that unlike many other journals PNAS doesnt demand that you sign over copyright  The question then is whether the copyright belongs to FTE or to Nick Matzke  I would suggest sending Nick and email and seeing if he will release the figure under a suitable copyleft license  
+
+I clearly see it as a valuable addition to the article one that helps the readers appreciation of the topic

@@ -1,0 +1,2 @@
+contents
+Future instances of same reference

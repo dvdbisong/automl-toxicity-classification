@@ -1,0 +1,1 @@
+Ive reduced it to semiprotection which is probably appropriate because of blp concerns Leaving it at full protection so long was a mistake thanks for catching it  Talk

@@ -1,0 +1,31 @@
+You want to fix this encyclopedia I posted some of the requirements on Wikipedia Review many months ago 
+For reference I will repost and expand them here
+
+1 Jimbo Wales has to leave He should turn over the server admin passwords to a professional 
+responsible IT person who is salaried by the WMF
+ 
+2 Said IT professional has to make some major changes to the MediaWiki system currently hosting WP 
+Changes would include but not be limited to
+
+   a BLPs must be heavily restricted and protected or better yet removed entirely
+
+   b A proper set of guidelines for editing and administration should be enacted AND ADHERED TO 
+      This would include limitations on the powers of all administrators and requirements for editors to be
+      personally responsible for whatever they do on the wiki No more IPaddress editing Anyone seeking
+      to write for WP must apply and be approved NO PERSONS UNDER THE AGE OF 18 Assume good faith my ass
+
+   c ALL administrators must be elected by OPEN BALLOT by the editors whose work they oversee
+
+3 Most critical to the projects success certain untrustworthy administrators MUST BE REMOVED and 
+banned from WP PERMANENTLY This would include but not be limited to
+    FT2
+    Durova
+    David Gerard
+    JzG
+    MONGO
+    Jayjg
+    Elonka
+    Jaakobou
+    Raul654
+
+Either make drastic changes or Wikipedia will continue to decline

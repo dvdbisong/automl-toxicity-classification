@@ -1,0 +1,27 @@
+NASA Study Debunks Part of Global Warming 
+NASA Sees Arctic Ocean Circulation Do an AboutFace
+November 13 2007
+
+PASADENA Calif  A team of NASA and university scientists has detected an ongoing reversal in Arctic Ocean circulation triggered by atmospheric circulation changes that vary on decadelong time scales The results suggest not all the large changes seen in Arctic climate in recent years are a result of longterm trends associated with global warming
+
+The team led by James Morison of the University of Washingtons Polar Science Center Applied Physics Laboratory Seattle used data from an Earthobserving satellite and from deepsea pressure gauges to monitor Arctic Ocean circulation from 2002 to 2006 They measured changes in the weight of columns of Arctic Ocean water from the surface to the ocean bottom That weight is influenced by factors such as the height of the oceans surface and its salinity A saltier ocean is heavier and circulates differently than one with less salt
+
+The very precise deepsea gauges were developed with help from the National Oceanic and Atmospheric Administration the satellite is NASAs Gravity Recovery and Climate Experiment Grace The team of scientists found a 10millibar decrease in water pressure at the bottom of the ocean at the North Pole between 2002 and 2006 equal to removing the weight of 10 centimeters four inches of water from the ocean The distribution and size of the decrease suggest that Arctic Ocean circulation changed from the counterclockwise pattern it exhibited in the 1990s to the clockwise pattern that was dominant prior to 1990
+
+Reporting in Geophysical Research Letters the authors attribute the reversal to a weakened Arctic Oscillation a major atmospheric circulation pattern in the northern hemisphere The weakening reduced the salinity of the upper ocean near the North Pole decreasing its weight and changing its circulation
+
+Our study confirms many changes seen in upper Arctic Ocean circulation in the 1990s were mostly decadal in nature rather than trends caused by global warming said Morison
+
+While some 1990s climate trends such as declines in Arctic sea ice extent have continued these results suggest at least for the wet part of the Arctic  the Arctic Ocean  circulation reverted to conditions like those prevalent before the 1990s he added
+
+The Arctic Oscillation was fairly stable until about 1970 but then varied on more or less decadal time scales with signs of an underlying upward trend until the late 1990s when it again stabilized During its strong counterclockwise phase in the 1990s the Arctic environment changed markedly with the upper Arctic Ocean undergoing major changes that persisted into this century Many scientists viewed the changes as evidence of an ongoing climate shift raising concerns about the effects of global warming on the Arctic
+
+Morison said data gathered by Grace and the bottom pressure gauges since publication of the paper earlier this year highlight how shortlived the ocean circulation changes can be The newer data indicate the bottom pressure has increased back toward its 2002 level The winter of 20062007 was another high Arctic Oscillation year and summer sea ice extent reached a new minimum he said It is too early to say but it looks as though the Arctic Ocean is ready to start swinging back to the counterclockwise circulation pattern of the 1990s again
+
+Morison cautioned that while the recent decadalscale changes in the circulation of the Arctic Ocean may not appear to be directly tied to global warming most climate models predict the Arctic Oscillation will become even more strongly counterclockwise in the future The events of the 1990s may well be a preview of how the Arctic will respond over longer periods of time in a warming world he said
+
+Grace monitors tiny monthtomonth changes in Earths gravity field caused primarily by the movement of water in Earths land ocean ice and atmosphere reservoirs As such it can infer changes in the weight of columns of ocean water In contrast the pressure gauges installed on the sea floor in 20052006 directly measured water pressure at the bottom of the ocean Gauge data were remotely recovered during the first year of the study
+
+The close agreement between the North Pole pressure gauges and Grace data demonstrates Graces potential for tracking world ocean circulation said study coauthor John Wahr of the University of Colorado Boulder
+
+Satellite altimeters such as NASAs Jason are ideal for studying ocean circulation but cant be used at Earths poles due to ice cover said study coauthor Ron Kwok of NASAs Jet Propulsion Laboratory Pasadena Calif Our results show Grace can be a powerful tool for trac

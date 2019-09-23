@@ -1,0 +1,1 @@
+Also at this point JavaScript as our JavaScript article explains is used as a pretty generalized term  Saying Microsofts proprietary JScript implementation of JavaScript would be fine though IMO

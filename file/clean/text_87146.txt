@@ -1,0 +1,10 @@
+Disambiguation Links 
+
+Hi Evilbu
+
+What I changed on the Quadric projective geometry page was simply an incorrectly directed link to a disambiguation page  The link to field had been linking to field which is the disambiguation page for the word field but I changed it to link to the correct page field mathematics  
+
+What you went to when you clicked on the you can help link should have taken you to WikipediaDisambiguation pages with links which is a wiki fixup project  The project works to fix all wikilinks that link to disambiguation pages and instead have the links link the specific article that they refer to
+Let me know if you have any other questions and I hope you continue contributing to Wikipedia
+
+ a

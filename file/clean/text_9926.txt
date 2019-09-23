@@ -1,0 +1,9 @@
+Open Source
+LemmeyBOT has gone open source
+ Runs RefHistoryFix on each article in the broken references category
+ Attempt to fix broken references on the specified article by looking at article history
+ Runs RefHistoryFix2 on each article in the broken references category
+ Attempt to fix broken references on the specified article by looking at current versions of linked articles
+ Attempt to fix broken references on the specified article by looking at a specific article or text file
+ A magical replacement of the Wikipedia class that doesnt require an editor to login
+ An example bot that uses the whoipedia class Finally a bot that anyone can edit with

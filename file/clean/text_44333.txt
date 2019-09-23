@@ -1,0 +1,1 @@
+Except one can spoof device IDs as well and one particular device randomizes them not going into details That said its an extra layer of defence and we can add this to the autoblocker as well if MediaWiki collects this data

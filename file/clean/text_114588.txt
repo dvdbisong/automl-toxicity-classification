@@ -1,0 +1,34 @@
+Meperidine Analogs
+In Vitro Data for Meperidine Analogs with Tritiated Radiotracers
+
+Tag
+DAT  SERT  Opioid Ki μM and Dopamine IC50 μM
+Uptake Ratio
+
+
+E
+Ar
+3HWIN 35428
+3HParoxetine
+3HDAMGO
+3HDopamine
+DATSERT
+μDAT
+μSERT
+
+CO2EtPh178  270413  0044092126  124310052213
+CNpF45101  04158ndndnd
+CNpCl220  101511  059368 5136431167018
+CNpI834  0670430  00034173 61367  13194207402
+CNpMe418  61137  04406 4622305097296
+CNmpCl2267  0240805  012400 46111  12332150497
+CNβNaph236  0660125  0022154 61218  12189653123
+CO2EtpF107  230308  002614747347014477
+CO2EtpCl410  1270277  0040441269  12148108159
+CO2EtpI325  02000211  00024235111  12155072111
+CO2EtpMe124  52161  011267762  12769022166
+CO2EtmpCl20125  001500187  00026204140  125668163109
+CO2EtβNaph114  03800072  00001203116  13158178282
+All values are the mean  SEM of three experiments performed in triplicate  Percent inhibition at highest dose tested 100μM
+Some analogs of meperidine were prepared initially with a bias toward improving DAT binding but it turned out that these analogs favor the SERT and can even be made selective for this transporter under optimum circumstances Stacey Lomenzo Sari IzenwasserBioorganic  Medicinal Chemistry Letters Volume 9 Issue 23 6 December 1999 Pages 32733276 Stacey A Lomenzo Sari Izenwasser Robert M Gerdes Jonathan L Katz Theresa Kopajtic and Mark L TrudellLomenzo S A Rhoden J B Izenwasser S Wade D Kopajtic T Katz J L Trudell M L
+J Med Chem Article 2005 485 13361343 Even in light of this early warning sign the authors were still content to press ahead and modify the carboethoxy ester of the pmCl2 analog into a variety of spinout molecules in a futile attempt to approve DAT binding Jill B RhodenBioorganic  Medicinal Chemistry Volume 13 Issue 19 1 October 2005 Pages 56235634 Although this effort was unprofitable and even detrimental some of the new compounds were even more SERT selective and robust None of the analogs tested produced LMA effects or substituted for cocaine in drug discrimination studies The authors hypothesized that opi

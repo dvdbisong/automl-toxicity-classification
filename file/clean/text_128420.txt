@@ -1,0 +1,1 @@
+It was not difficult SVG is just a program in ascii format one can search and replace the text string and reupload the file

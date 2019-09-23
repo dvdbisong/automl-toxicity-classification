@@ -1,0 +1,7 @@
+Referencing 
+
+Im beginning to feel that the improved article would benefit from using the sfn template refs The advantage of these is that they allow precise page numbers to be used for each ref but at the cost of an extra click being required to get through to the full ref and any online text of it The majority of the refs here need updating and there is an excellent set of very recent papers several above etc Some are long and cover large parts of the subject eg Wolfgang et al Recent Progress is 24 pages of text really too long to refer to without page numbers Equally one doesnt want to clutter up the references section with the full title details up to 20 times  
+
+I must say Ive never used the sfn templates before though I normally prefer plain short footnotes for the reasons above See HelpOverview_of_referencing_stylesShortened_footnotes here for an explanation of how they work  
+
+What do people think

@@ -1,0 +1,13 @@
+Hium This is not correct English composition  prohibited in article text that is how they were recently used here
+When you use id est or That is in that context you are expounding upon and explaining the original sentence eg prohibited in article text that is you cant use it You used an example thus eg or the English equivalent for example or the more simplistic like prohibited in article text like how they were recently used here
+As far as thisWPACCESSUsers_with_limited_CSS2FJavaScript_support 
+However consideration for users without CSS or JavaScript should extend mainly to making sure that their reading experience is possible it is recognised that it will inevitably be inferior
+
+I may be wrong but your reference to WPHiddenFunction concerns hiding text not to a collapsible table
+As of December 29 2006 this technique is disabled on this wiki The class hiddenStructure still exists in the CSS but now outlines the text in green instead of hiding the text This is to find any remaining instances of hiddenStructure in templates Note that this only disables use of the CSS class hiddenStructure It does not prevent use of similar tags like display none or visibility hidden
+
+The collapsible boxes contain information that serves as an addendum to what is in the article It adds to the reading experience by making the page neater The example I used with the Genes is a prime example looking at that abortion is enough to give somebody a headache
+
+The collapsible boxes I added in the Auschwitz concentration camp and the Mathausen concentration camp articles among others makes the pages look neater and more interesting Nobody has complained aboutWPACCESS 
+
+Why do I think Its a shame this article is written like garbage It occupies the first spot in the search results People actually do access Wikipedia for medical informationThe article is not only poorly written as regards to formatting syntax lack of images etc it also contains example after useless example of ADHD is contoversial nonsense That does a disservice to people with the disorder Referencing a 2001 television program about the ADHD controversy or including the views of Tom Cruise does nothing except to place doubts unwarranted ones in peoples minds

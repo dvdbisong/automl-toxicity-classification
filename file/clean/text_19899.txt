@@ -1,0 +1,2 @@
+classmessagebox standardtalk stylepadding11px width70 textalignleftaligncenter
+  width100This ip has been blocked indefinitely as an open proxy See  block log
