@@ -1,1 +1,0 @@
-I was looking for where they literally spelled out 34MB because it is such an oddball number but I guess you mean the 32MB eDRAM plus the 2MB eDRAM  34MB I guess I dont have a problem with that but maybe seperating them would be better or putting a little small underneath or next to it to explain 32MB MEM1 2MB MEM0  Im not sure really what might be the most elegant way to put it

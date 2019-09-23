@@ -1,2 +1,0 @@
-Discussion of Releases 
-I turned to this article to understand more about why the Drupal site has two current releases 516 and 610  I think it would be good for someone more knowledgeable than I to write about the current releasestheir differences etc

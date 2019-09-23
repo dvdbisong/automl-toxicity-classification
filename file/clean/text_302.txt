@@ -1,3 +1,0 @@
-Windows Phone upgradeability 
-
-Hi Gregory  I reverted your change on the Windows phone article  Neither Microsoft nor its partners have made any official statements on whether devices running Windows Phone 75 will be upgradeable to Windows Phone 8  The references given by another user are blogs that are relying on Hearsay

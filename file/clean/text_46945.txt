@@ -1,3 +1,0 @@
-Inline cites 
-
-I notice that the changes I made to footnotes which removed duplication of sources using ref name and took the information from References and used it to complete a citation for the first source have been reverted It would be good to clean up these citations  talk to me

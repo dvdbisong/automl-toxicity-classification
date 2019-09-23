@@ -1,3 +1,0 @@
-Hi Rizzleboffin Welcome to Wikipedia Sure is a good thing to see a competent editor who knows how to ask questions in a civil manner you should see some of
-
-Im getting off track This is a rather makeshift solution but putting  br clearall  minus spaces before each new headline should work Check the results    Contribs

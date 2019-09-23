@@ -1,3 +1,0 @@
-ZTransform is missing  
-
-How can you avoid including Laplace and his ZTransform in the history of control theory  I think he belongs FIRST

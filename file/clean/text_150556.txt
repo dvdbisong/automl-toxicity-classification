@@ -1,3 +1,0 @@
-Serious redundancy issues 
-
-There is substantial replication of text in this article

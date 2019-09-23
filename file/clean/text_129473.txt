@@ -1,1 +1,0 @@
-Changed WDAP to WPAD in the article

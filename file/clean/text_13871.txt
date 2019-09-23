@@ -1,2 +1,0 @@
-colspan2 stylebordertop1px solid black 
-This template adds articles to CategoryOld requests for peer review

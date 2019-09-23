@@ -1,3 +1,0 @@
-Changing References tags to Reflist 
-
-Dont know if I should mention this to you or to whoever maintains AWB but a recent change didnt quite work  If a references section includes more than just citephp refs then the old style of div references tag div still needs to be used  This edit put the template at the bottom in the references style because it cleared the div without removing the original div  not that that would have been desirable in any case  Something to watch out for I guess

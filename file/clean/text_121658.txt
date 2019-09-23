@@ -1,1 +1,0 @@
-Ok Id really prefer not to rotate the constellation diagram since then the carriers alternate between off and on rather than being always on So wed have horizontal lines at zero for a lot of the time in the components and it doesnt look so nice and doesnt make a useful analogy with BPSK which would always be on

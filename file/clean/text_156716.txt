@@ -1,3 +1,0 @@
-Template2012OlympicAthleticsSchedule 
-
-Hi the dates and times listed for Womens 100m hurdles and 400m hurdles are incorrect The 100m hurdles SF and F are both in the afternoon session of Tues 7 while the final for the 400m hurdles is during the afternoon session on Wed 8 Seems like the only way to fix the template is to add a col to the Tues 7 heading and subsequently to each event afterward to accommodate the double SF and F but Im not sure so Ill let you deal with it  Thanks

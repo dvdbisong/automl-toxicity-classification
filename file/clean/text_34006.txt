@@ -1,9 +1,0 @@
-Thermological explanation of galling 
-Hi Im responsible for most of the text regarding the galling phenomenon presently found in the Wiki archive 
-
-My opinion of the galling phenomenon is the following Galling is highly connected to thermal or pressurized influenced contact and the interaction between the mating surfaces The temperature or pressure around penetrating objects is higher for small and sharp objects compared to larger blunt objects due to higher acceleration This means that phase transition can take place even in the initial build up process and onset of adhesive material transfer and galling It was clear that a change in material behaviour which increased resistance for further advancement took place around sharp edges even in the build up process where attached material was insignificant My conclusion there is a connection between the attached material and the geometrical situation around penetrating objects and developed pressure and temperature in the contact zone 
-The theory about electrolyte and a galvanic exchange is interesting but in my research using a SOFS slideronflatsurface tribotester revealed a clear difference between exhibited contacts found in the tracks after testing An electrolyte and a galvanic exchange should always be present which was not observed using the above equipment 
-
-If you are interested in the argumentation read the reference and perhaps include it as a reference in the Wiki text about galling 
-
- Wallin H 2008 129 p An investigation of friction graphs ranking ability regarding the galling phenomenon in dry SOFS contact  Adhesive material transfer and friction A free pdf document available here or wwwdivaportalorg found here or at wwwuppsoklibriskbse here use search wordsgalling  Harald Wallin or the direct libris link here

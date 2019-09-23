@@ -1,3 +1,0 @@
-Barnstar
-
-styleverticalalign middle bordertop 1px solid gray

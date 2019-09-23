@@ -1,3 +1,0 @@
-Virtual machine vs emulator 
-
-I updated the definition in the lead  the prior version seemed to suggest that a VM was just software although later the article mentions hardware virtualization  The original definition seems to be thinking of net or Java  The difference between a VM and an emulator should be mentioned somewhere perhaps in the lead if anyone can figure it out

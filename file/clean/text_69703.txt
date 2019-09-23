@@ -1,3 +1,0 @@
-Quartic 
-
-Thank you for the Quadric Projective Geometry article As you noticed I moved it to quadric projective geometry per the Wikipedia conventions about capitals And I have just a few tips There are some rather big formulas in there which need to be moved on their own line I did some and some are left  Thanks and I hope you like it here

@@ -1,5 +1,0 @@
-IRWolfies question 
-
-Kozima wrote The products of cold fusion phenomenon CFP observed by Miley et al Miley and Patterson 1996 are tabulated in Table C61 That table lists the kinds of atoms that Miley and Patterson reported finding in microspheres that had been used in a Patterson Power Cell At the top of Kozimas page 148 he uses the abbreviation TNCF and he defines that term on page page 192 as trapped neutron catalyzed fusion
-
-Using TNCF to refer to the transmutation of nickel into copper seems appropriate because the nickel is being transmuted into a heavier element copper and that is an example of nuclear fusion However using TNCF to refer to the transmutation of nickel into lighter elements is a bit misleading because such transmutations are actually examples of nuclear fission not fusion In contrast Miley has used the term fissfus to describe the transmutation of nickel into a heavier element copper and lighter elements chromium manganese iron and cobalt The term fissfus is derived by combining the fiss from fission with the fus from fusion

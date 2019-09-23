@@ -1,1 +1,0 @@
-An added benefit of this proposal albeit a small one is that it preserves the consensus reached earlier regarding the rows on the results article table representing events rather than state summaries

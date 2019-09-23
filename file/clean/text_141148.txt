@@ -1,1 +1,0 @@
-I havent tried it but perhaps the pad template could be useful as documented at HelpWiki_markupFormat

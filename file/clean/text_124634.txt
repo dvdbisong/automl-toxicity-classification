@@ -1,2 +1,0 @@
-Not sure how to answer clearly but here goes
-The concept of there being a need for a minimum difference in boiling points is erroneous and probably comes from rules of thumb for separating two pure phases in a single distillation using a simple apparatus  That is if you can boil off 100 of phase A without boiling offcondensing phase B  Think back to WWII in Norway when heavy water was separated from normal water by multiple distillation  The boiling point difference is only 14 degrees yet heavy water was successfully produced

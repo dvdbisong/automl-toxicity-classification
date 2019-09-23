@@ -1,9 +1,0 @@
-bogus features
-     Integrated link management
-every feature should be integrated otherwise it wouldnt be a feature
-     Typographic filters for proper formatting and styling of text
-give me an example of a nontypographic filter please and the whole Generates standardscompliant XML XHTML and CSS makes this feature redundant
-     Extensible plugin support
-if wordpresses plugins are extensible what does a nonextensible plugin system look like
-
-you may get bonus points in school for adding pointless adjectives to nouns but on wikipedia it only serves to distract

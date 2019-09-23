@@ -1,3 +1,0 @@
-ipv6 
-
-mIRC doesnt natively supports ipv6 protocols It could be enabled by adding a external DLL plugin who will enable a special protocol for DNS and connecting to ipv6 servers

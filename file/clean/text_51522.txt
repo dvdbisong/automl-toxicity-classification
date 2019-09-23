@@ -1,3 +1,0 @@
-Perhaps an example of falsibility may be in order 
-
-Im finding it hard to understand what the Rothenberg property is I gather that the diatonic scale satisfies it but it is quasiperiodic Then again the scale C C D D E F F repeating at all octaves is also quasiperiodic but it doesnt satisfy the Rothenberg property Explaining why the first satisfies it but the second doesnt may make things a lot clearer

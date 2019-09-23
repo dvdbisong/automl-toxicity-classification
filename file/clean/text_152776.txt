@@ -1,7 +1,0 @@
-Justification to add new proof using Bézouts Identity 
-
-As requested by  my justifications for
-adding this new proof to teh article are
-
- While it is equivalent to teh first it is smaller and lighter to read
- It emphasizes teh that

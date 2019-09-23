@@ -1,3 +1,0 @@
-UTC
-
-Sorry to report that that didnt work I was going to suggest using the windowonerror property in monobookjs to disable script error dialogs but it didnt work for me when I tested it Supposedly setting windowonerror to a function that returns true would disable the script popups but I didnt see that happen I only get one script error per page load actually  0618 9 February 2007

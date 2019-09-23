@@ -1,1 +1,0 @@
-Projectively extended real numbers is fine by me now that Ive had a chance to absorb the intended distinctions  Its more about arithmetic including interval arithmetic than geometry and its what David Cantrell calls it at Wolfram MathWorld

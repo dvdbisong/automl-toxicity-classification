@@ -1,1 +1,0 @@
-Given the fact that noone objects Ill assume that its okay when I implement this change of putting an asterisk  next to each counry when an laureates country is ambiguous

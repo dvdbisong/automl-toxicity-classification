@@ -1,4 +1,0 @@
-No these are not the latest version numbers they signify which version the shown support is relevant for
-Minority browsers are relevant for showing broadness of support for HTML5 and killing the portability incentivemyth of using Flash
-Market share I wouldnt believe such statistics unless I could verify their classification of the useragents in question As a Konqueror user I am so fed up with being incorrectly recognised as safari user
-Complex Rather oversimplified I woud call it because you cant generally say this browser supports that format It depends on the codecs shipped with the operating system more than anything else which this table fails to convey

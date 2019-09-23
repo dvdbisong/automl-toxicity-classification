@@ -1,7 +1,0 @@
-class
-
-
-
- width50px  
- styletextaligncenterfontstyleitalic 
-This article is part of WikiProject Arizona a WikiProject related to the US state of Arizona

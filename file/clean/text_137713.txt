@@ -1,3 +1,0 @@
-just dumped this bit of POV commentary in the article which Ive reverted
-
-Subversions lack of support for certain common features distinguishes it from other version control products

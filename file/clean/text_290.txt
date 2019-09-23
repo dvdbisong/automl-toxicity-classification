@@ -1,1 +1,0 @@
-Another question does this style information stripping occur only whenever a shape itself is edited or for less intrusive edits such as moving a shape around If even highlighting and selecting the shape in Inkscape makes it unusable then I shouldnt even be messing with Inkscape at all

@@ -1,2 +1,0 @@
-This Article
-should be merged with watchdog timer

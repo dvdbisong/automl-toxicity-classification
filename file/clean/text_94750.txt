@@ -1,3 +1,0 @@
-Move back to PCI DSS 
-
-Was this discussed before the move  Its not an acronym that really warrants expansion like this

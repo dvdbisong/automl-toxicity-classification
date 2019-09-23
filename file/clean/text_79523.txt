@@ -1,3 +1,0 @@
-linux article 
-
-Linux and unix are esentially the same thing  they are both using the same commands applications are cross compatible etc Mach and BSD are also like linux  therefore u can say the mac os is based on linux  i have a mac mini here at home as one of my computers  I have seen the linux command line and have use it  i have been on websites which tell me mac os x is based on linux  linux is a free version of unix

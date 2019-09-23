@@ -1,8 +1,0 @@
-Is that density or viscosity of fluid will affect the flow 
-
-Dear all
-
-Is that anyone come across this issue before How does the density or viscosity affect the total flow for example with different density of gases will they have same quantities if their flow with same units 1000 m3hr etc 
-
-Regards
-Lee

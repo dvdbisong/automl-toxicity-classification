@@ -1,3 +1,0 @@
-References to use with Tornado emergency 
-
-This website from the Iowa Environmental Mesonet should be able to help you quite a bit with references for this article  It has archives for every product issued by the NWS since 2003

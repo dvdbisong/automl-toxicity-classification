@@ -1,1 +1,0 @@
-reverted the cut of images Should ask for consensus before performing such large edits

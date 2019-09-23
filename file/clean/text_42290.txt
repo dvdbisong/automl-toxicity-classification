@@ -1,3 +1,0 @@
-RE clever edit
-
-For Stopzilla information on why it has been deemed rogue check out this external link httphostsfilenetdefaultaspsstopzillacom  which is a HOSTS file entry Also it classifies other IPs on the same IP range as bad

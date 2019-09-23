@@ -1,2 +1,0 @@
-A plasma question
-Sorry to bother you but I was impressed with your command of plasma physics on the plasma talk page and I was wondering if you could answer a question for me In a one atmosphere uniform glow Discharge plasma OAUGDP what is the voltage drop for a large current say 1000 amps running across it Is there an equation that one could use to compute this for different voltages Thanks a lot for your patience cc

@@ -1,3 +1,0 @@
-Help with Project template 
-
-Help what am I doing wrong I tried a combo of the Beatles and the 05 template to do the Comments thing and the category does not appear if a Comments page exists Heres my template   I put the sentence that gives the link in the areas where the class is being assigned and then the category include code is near the bottom I put a comment on this page TalkFirefly soundtrack Oleg said I should ask you for help on this  Thanks

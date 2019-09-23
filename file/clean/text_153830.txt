@@ -1,3 +1,0 @@
-Suggestion for minor enhancement to article 
-
-I would like to see a brief discussion of the concept of normalization of data so that for instance productivity comparisons to a benchmark standard compare apples to apples If an organization captures hours worked but the standard is days billed the organizations data has to be normalized or converted from hours worked to days billed in order for the comparison to be meaningful   WChandler 718193249

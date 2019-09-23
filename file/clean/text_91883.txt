@@ -1,9 +1,0 @@
-It is a popular misconception that the sun is at its greatest elevation above the horizon at noon every day This misconception is reflected in the Measurement section the difference of the heights of the Sun above the horizon at noon on the longest and shortest day of the year is twice the obliquity
-
-Because of the eccentricity of the Earths orbit around the Sun the angular velocity of the Earths orbital motion is not constant The axial tilt of the Earth also causes a periodic variation in the time that the Sun reaches the meridian As a result the Sun may cross the meridian and reach its maximum height above the horizon as early as 16 min 33 s before noon around November 3 or as late as 14 min 6 sec after noon around February 12 This is explained in detail on the Equation of time page
-
-Of course there is always a tradeoff between maximum scientific accuracy on the one hand and the goal of keeping articles simple and straightforward for nontechnical readers on the other hand
-
-One possibility the difference of the maximum heights of the Sun above the horizon at midday on the longest and shortest day of the year is twice the obliquity
-
-The last paragraph of the section would also need to be tweaked similarly

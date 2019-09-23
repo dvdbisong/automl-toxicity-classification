@@ -1,3 +1,0 @@
-Meaning of implementation 
-
-Is the description of ActiveTcl as being a major implementation of Tcl correct I would rather consider ActiveTcl as a distribution of Tcl whose underlying implementation is provided by the tclsourceforgenet project httpwikitcltk17975 lists a number of other implementations

@@ -1,1 +1,0 @@
-Something which might be worth mentioning is that at least some of these consequences of the axiom of choice have been shown to imply the axiom as well Tychonoffs theorem for example  Im not sure which other ones do or dont though

@@ -1,5 +1,0 @@
-Edit request from LikeLakers2 13 October 2011 
-
-Null edit to pruge cache and remove the page from the view of CategoryWikipedia pages with incorrect protection templates Perhaps the smallyes parameter could be taken out as well  talk    
-
- talk

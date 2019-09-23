@@ -1,1 +1,0 @@
-Its just a program that runs in the background monitoring the recent changes feed and emails me whenever an edit or log item which matches its patterns appears Think of it as a massively more configurable watchlist  talk

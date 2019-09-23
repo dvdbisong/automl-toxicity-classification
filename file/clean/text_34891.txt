@@ -1,1 +1,0 @@
-My only question on the tehsil one is why is tehsil_map assigned to image_skyline  Farmbrough

@@ -1,1 +1,0 @@
-It would be good to add something explaining the relevance of the case of the canonical ring and how it has been proved in BCHM and how the proof is simplified by Lazic Cascini et al later on 12921514999

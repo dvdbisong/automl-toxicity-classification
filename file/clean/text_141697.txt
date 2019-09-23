@@ -1,5 +1,0 @@
-How does this apply to an Internet Browser Addon 
-
-It seems this phrase web of trust applies in some way to internet browser addons which is how I came here  I assume the browser addon allows a group of people to trust a website or not  Nor sure  Someone on a Tech Forum said that having a Web of Trust addon to your browser allows you to know whether or not an unknown website is dangerous or not  It would be useful if this article included some explanation of this  Im still not sure what it is exactly or how the encryption web of trust relates to the browser
-
-99137251249  Jimmy Rapid

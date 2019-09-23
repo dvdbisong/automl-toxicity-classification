@@ -1,2 +1,0 @@
-Mark II subsec
-I removed the Mark IIx subsections and made them bulleted lists  There was no reason in my eyes to subsec one line of information

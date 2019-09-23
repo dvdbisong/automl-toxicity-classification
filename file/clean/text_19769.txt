@@ -1,8 +1,0 @@
-nestedyes
-WikiProject Boston Red Sox
- classStart
- importanceMid
- needsinfobox
- needsphoto
- attention
- auto

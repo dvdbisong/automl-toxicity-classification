@@ -1,3 +1,0 @@
-Nordictaskforce yes
-Russiantaskforce yes
-WWIItaskforce yes

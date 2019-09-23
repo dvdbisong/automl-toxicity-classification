@@ -1,3 +1,0 @@
-You can also see that layout engine has the edge if you try the following searches 
- httpwwwgooglecomsearchqbrowser engine AND HTML5 support wikipedia sitewikipediaorg
- httpwwwgooglecomsearchqlayout engine AND HTML5 support wikipedia sitewikipediaorg

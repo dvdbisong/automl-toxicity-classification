@@ -1,3 +1,0 @@
-In its current state this document is not a description of a marker but of the use of a marker in some ATT aka Bell Sysem equipment As such it is limited and not representaive of the concept Telephony is a world wide concept and is not restricted to the technology developed by ATT
-
-Computers are not limited to stored program devices The example of Collosus which was used to break the Enigma codes is a good one it is widely regarded as an early computer and was not a stored program computer The comparison of the marker to a computr emphasizes its funtion and role

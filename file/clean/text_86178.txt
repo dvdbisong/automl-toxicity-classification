@@ -1,5 +1,0 @@
-Bad writing re format 
-
-Attempts to sync unsupported content to Apple TV will draw an error message from iTunes
-
-This doesnt make sense

@@ -1,7 +1,0 @@
-Hi
-
-The Springboard source is not a blog it is a column by Windows IT Pro and it is written by Paul Thurrott It has all three elements of a reliable source Credible author credible publisher and contents itself 
-
-Unlike what you think it was not a set of abstract techniques it was tangible changes visible to laymen enduser a new version of Windows Firewall a new version of Internet Explorer 6 and the famous Windows Security Center Windows XP Service Pack 2 was in important milestone because at the time Microsoft was under fullscale global scrutiny about the state of security in its products Windows XP Service Pack 2 was a security facelift in Windows XP so there is little surprise its security portion has its own codename
-
-Best regards

@@ -1,3 +1,0 @@
-Current Direction in Conversion to a Thévenin equivalent 
-
-The direction of the current source in Conversion to a Thévenin equivalent is incorrect It would generate a negative voltage across the output terminals The Thevenin equivalent circuit generates a positive voltage

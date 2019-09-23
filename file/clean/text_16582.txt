@@ -1,7 +1,0 @@
-August 2008 
-Welcome to Wikipedia Although everyone is welcome to contribute constructively to the encyclopedia your addition of one or more has been reverted Your edit here was reverted by an automated bot that attempts to remove unwanted links and spam from Wikipedia The external link you added or changed is on my list of links to remove and probably shouldnt be included in Wikipedia The external links I reverted were matching the following regex rules rule bwordpresscom  If the external link you inserted or changed was to a blog forum free web hosting service or similar site then please check the information on the external site thoroughly Note that such sites should probably not be linked to if they contain information that is in violation of the creators copyright see Linking to copyrighted works or they are not written by a recognised reliable source Linking to sites that you are involved with is also strongly discouraged see conflict of interest
-
-If you were trying to insert something that does comply with our policies and guidelines then please accept my creators apologies and feel free to undo the bots revert Please read Wikipedias external links guideline for more information and consult my list of frequentlyreverted sites For more information about me see my FAQ page Thanks 16091231124  
-If this is a shared IP address and you didnt make the edit please ignore this notice
-
-16091231124

@@ -1,1 +1,0 @@
-There are other examples Mandarin Chinese vs Standard Mandarin Standard Hindi Received Pronunciation Modern Standard Arabic etc But the implementation might be iffy

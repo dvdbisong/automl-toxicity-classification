@@ -1,1 +1,0 @@
-Glad to hear it  Mostly its been little stuff You were running the citation bot not reflinks they do different things There are botprep tricks that work for each For example using the best cite template change cit web to cite journal and the bot might add volume and issue numbers issns and such too Cheers

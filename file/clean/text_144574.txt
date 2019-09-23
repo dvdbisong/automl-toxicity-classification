@@ -1,5 +1,0 @@
-Im sorry The bot should skip dab submissions  it already has code to do so However clearly it is not working correctly
-
-I will investigate and try to fix it in the meantime Ive stopped the bot
-
-Thank you for bringing it to my attention and sincere apologies for any trouble it caused you Best

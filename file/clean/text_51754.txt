@@ -1,1 +1,0 @@
-Hmm when I looked last night there was the 16 hardblock and a 24 softblock both affecting 17319211868  The softblock was lifted and it looks like it took precedence anyway  Oh well   talk

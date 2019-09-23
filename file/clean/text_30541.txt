@@ -1,5 +1,0 @@
-Re Cricket stuff 
-
-Actually Ive never tried to make a bowling graph Im just not sure how I would best go about it Obviously the wickets would be easy to do but Im not sure how to work the bowling average into the graph Doing it just like the batting graphs wouldnt look all that great as a bowler can of course never take more than 10 wickets in an innings but the bowling average might frequently be up around 30 or more I dont know how I could get that looking good but Im happy to fiddle around and see if I can come up with something 
-
-Thanks for telling me about Stan McCabe too but I cant really take any of the credit If I didnt start it someone else would have eventually and its looking a lot different now from my first version

@@ -1,7 +1,0 @@
-Class numbers in the 70s 
-
-Was 7 under TOPS reserved for electrodiesels or for DC diesels
-
-Empirically the Woodhead locos 76  77 do indeed suggest that the 7 series vs the 8 series was for indeed for DC locos catenary or 3rd rail However Ive never seen it claimed that this was particularly deliberate whilst I have read that the electrodiesels were deliberately grouped in this range Does anyone have a robust source  
-
-In the meantime Ive reverted the change mostly to avoid the redlink If we do change this the link ought to point to a section within the TOPS article

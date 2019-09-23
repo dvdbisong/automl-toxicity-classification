@@ -1,3 +1,0 @@
-Context tag 
-
-I added the context tag because the article starts throwing mathematical functions and jargon around from the very beginning with no explanation of what the letters and symbols mean

@@ -1,3 +1,0 @@
-SC Lottery Pages 
-
-I noticed you are creating pages about the SC Lottery Instead of creating several pages with the same content you should create one page with the most appropriate title and then create redirects for all the other ways people may search for the information

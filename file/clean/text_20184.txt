@@ -1,5 +1,0 @@
-Liechtenstein currency 
-
-Hi
-
-I added 2 stubs for Liechtenstein Liechtenstein krone and Liechtenstein frank I also tried to comply with the recat project If you have time please review them Thanks

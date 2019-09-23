@@ -1,3 +1,0 @@
-Span occurs not as a separate page but as an alternate word for generate on the 
-
-Linear Algebra page under Generating a Vector Space

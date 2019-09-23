@@ -1,3 +1,0 @@
-Taylor series with Lagrange and Peano remainders 
-
-Why theres nothing about those two remainders in the article

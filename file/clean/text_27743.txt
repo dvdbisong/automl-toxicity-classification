@@ -1,3 +1,0 @@
-Encryption capability 
-
-I recommend adding a column to show whether the format supports encryption The table as it stands now is missing formats such as TrueCrypt freeware that enables you to pack huge folders away into a single encrypted archive file You can edit within the archive then simply dismount and dragdrop to make a backup of the archive This method has become the bedrock of my file management I would expect that many others use it this way as well file management system that happens to be encrypted rather than just plain encryption software

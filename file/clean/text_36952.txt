@@ -1,7 +1,0 @@
-Rankings in lead 
-
-Recent good faith edits to the lead regarding rankings  removed some existing text about various  rankings while adding reference a new ranking that was incorrectly attributed to Newsweek instead of Financial Times
-
-Furthermore this information in the lead becomes out of sync with detailed rankings in the Rankings section which was already out of sync even before the aforementioned edits
-
-Based on guidelines for into text to summarize the most important points covered in an article I will move the specific rankings from the lead to the Rankings section  The lead will continue to have the existing sentence UCLA is consistently ranked high in college and university rankings  This will hopefully make the article easier to maintain not to mention benefit the reader with a shorter lead and access to accurate rankings details in a single section of the article

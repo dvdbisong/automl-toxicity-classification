@@ -1,5 +1,0 @@
-Help me 
-
-Hey Wikipedia I have a minor problem I am creating an external link to a powerpoint slide The entire powerpoint slide has 92 slides I want the link to go to slide 55 Is this possible  
-
-Thank you

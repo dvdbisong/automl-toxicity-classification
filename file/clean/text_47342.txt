@@ -1,2 +1,0 @@
-Strong encrypted F2F networks will mainly use strong symmetric encryption in particular the only theoretically secure onetime pad for every link
-Who ever wrote this article could do with a brush up on practical cryptography nonot the book OTP is pretty unpractical here

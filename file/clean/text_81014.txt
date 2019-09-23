@@ -1,5 +1,0 @@
-Yes there just was 
-Error twinklefluffForceOpenUserTalkPageInNewWindow is not defined
-Source File httpenwikipediaorgwindexphptitleUser3AAzaTothtwinklefluffjsactionrawctypetextjavascriptdontcountmes
-Line 447
-  Talk Contrib

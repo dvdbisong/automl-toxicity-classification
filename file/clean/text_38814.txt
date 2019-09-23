@@ -1,4 +1,0 @@
-action4  PR
- action4date  20080926
- action4link  WikipediaPeer reviewRosettahomearchive3
- action4result  reviewed

@@ -1,8 +1,0 @@
-2016 
-
- stylebackgroundcolor FFFBC4 border 8px solid 009600
-rowspan2 styleverticalalign middle padding 5px  
-stylefontsize xlarge padding 3px 3px 0 3px height 15em  Happy New Year 2016
-
-styleverticalalign middle padding 3px Did you know  that back in 1885 Wikipedia editors wrote Good Articles with axes hammers and chisels
-Thank you for your contributions to this encyclopedia using 21st century technology I hope you dont get any unneccessary blisters  Lets discuss it

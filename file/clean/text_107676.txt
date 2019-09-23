@@ -1,2 +1,0 @@
-Dynamic IP 
-This IP is dynamically assigned by a DHCP server to road runner customers in a particular area

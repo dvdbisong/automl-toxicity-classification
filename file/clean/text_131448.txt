@@ -1,9 +1,0 @@
-Sites that require loginsrestrict access 
-
-Mediafire requires login to uploadnot mentioned  can someone add Login required to upload files to it
-
-Some sites only let you download files uploaded with the same account
-
-Others require a login to download
-
-Note  Not saying rather the account is free but that youre forced to log into it

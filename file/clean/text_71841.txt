@@ -1,5 +1,0 @@
-OTRS Login 
-
-Hi Daniel
-
-I tried logging on to the OTRS website and it says that there isnt an account under my username Mike V I can still log on to the interface just fine but not the wiki Any idea whats up Thanks    Talk

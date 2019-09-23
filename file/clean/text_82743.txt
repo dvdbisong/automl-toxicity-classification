@@ -1,5 +1,0 @@
-Gerard Roes paper  this Wiki text is obsolete 
-
-I just added this section because someone badly needs to update this completely obsolete article Because of the wellcited 2006 article below pretty much all the criticisms in this Wikipedia article are out of touch The readers will be grateful to anyone who will update it  but the amount of required work is nontrivial
-
-Many of the doubts about the theory disappeared in 2006 when Gerard Roe published a paper In defense of Milankovitch in Geophysical Research Letters Vol 33 L24703 doi1010292006GL027817 2006  He correctly identified the insolation with the timederivative of the measured ice volume rather than the ice volume itself and obtained a spectacular agreement that has solved the 100000year problem and other problems below By taking the derivative the shortduration higherfrequency cycles are amplified Until this text takes Roes paper into account you should realize that it is obsolete

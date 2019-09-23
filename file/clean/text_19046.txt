@@ -1,3 +1,0 @@
-Ah ok looked some stuff up So r can be negative  in which case the only stable level of population is 0 while there is also an unstable equilibrium at K Just putting that in would help clarify things Of course r0 has some very unrealistic implications if N0K
-
-Question  is there some maximization of fitness going on here which determines rK  the wording of the text sort of implies it

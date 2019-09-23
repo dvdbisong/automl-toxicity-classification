@@ -1,1 +1,0 @@
-The way of dealing with persistent ips that hop is to protect the article from edits from ips so only registered users can do it and even then they have to wait a little while see WPPROTECT This is one of the plusses of registering a username and getting it autoconfirmed

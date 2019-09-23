@@ -1,5 +1,0 @@
-Vector space again 
-
-I also removed your addition to that article because it was already mentioned in the introduction that a linear space is just another name for a vector space Also I dont think a vector space is called linear just because multiplication of vectors is not possible If you wish by the way in 3D one can multiply vectors by the cross product
-
-And a couple of remarks about style One should write vector space and not Vector Space and same for linear space not Linear Space And one should not write his name in an article but only on the talk page Thanks

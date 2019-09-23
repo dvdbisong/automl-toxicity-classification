@@ -1,5 +1,0 @@
-reworded template
-
-Currently the template states
-
-Can this be changed to

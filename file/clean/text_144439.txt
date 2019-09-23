@@ -1,2 +1,0 @@
-Multivariable Mean Value Theorem
-Let  be a function of n variables and let  have continuous first partial derivatives with respect to all variables in some closed ball about the point  Then goverrightarrowxgoverrightarrowp

@@ -1,3 +1,0 @@
-Date formats 
-
-I want to fix the date formats but so many are used Month Day Year Month Day Year Day Month Year that my head is spinning and Im not sure which to use  Please pick one or at least one for the prose and one for the refs and fix accordingly   odd name
