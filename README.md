@@ -1,6 +1,6 @@
 # Google Cloud AutoML Natural Language for Text Classification
 
-## Building a Language Toxicity Classi cation Mode
+## Building a Language Toxicity Classification Model
 
 | | |
 |-|-|
@@ -8,8 +8,7 @@
 |__Author__ | __Ekaba Bisong__ <br>Google Developer Expert in Machine Learning<br> Google Certified Professional Data Engineer
 |__Website__ | <a href="#">#</a>
 
-<img src="jigsaw-automl-nlp.png" alt="jigsaw automl nlp">
-Left: Jigsaw (Conservation AI). Right: AutoML for Natural Language
+<img src="jigsaw-automl-nlp.png" alt="jigsaw automl nlp" width="70%" height="70%">
 
 Google Cloud AutoML for Natural Language provides the platform for designing and developing custom language models for language recognition use-cases. This project uses Google Cloud AutoML for Natural Language to develop an end-to-end language toxicity classification model to identify obscene text. The concept of neural architecture search and transfer learning are used under the hood to find the best network architecture and the optimal hyperparameter setting that improves the performance of the model.
 
